@@ -58,8 +58,8 @@ Databases will use foreign-key constraints, indexes, and primary-keys whenever p
     1. PostalCode: String.
     1. StateProvince: String.
     1. Country: String.
-    1. Latitude: Integer.
-    1. Longitude: Integer.
+    1. Latitude: Float.
+    1. Longitude: Float.
 1. #### [Customers](./Flat/Markdown/Customers.md)    
     ##### Rows: 1000
     ##### Columns:
@@ -69,7 +69,7 @@ Databases will use foreign-key constraints, indexes, and primary-keys whenever p
     1. CompanyName: String.
     1. Title: String.
     1. Notes: String.
-    1. AccountNumber: Number.
+    1. AccountNumber: Integer.
     1. Photo: Binary.
     1. DateCreated: DateTime, not null.
     1. DateUpdated: DateTime.
