@@ -26,7 +26,7 @@ first and then run the appropriate script to create the schema and data.
 - [JSON](./Flat/JSON)
 - [Markdown](./Flat/Markdown)
 - [Microsoft Excel](./Microsoft%20Office/Excel)
-- [OpenDocument Spreadsheet](./Open%20Document%20Format)
+- [Open Document Spreadsheet](./Open%20Document%20Format)
 - [TOML](./Flat/TOML)
 - [TSV](./Flat/TSV)
 - [YAML](./Flat/YAML)
