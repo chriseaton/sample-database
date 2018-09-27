@@ -84,7 +84,7 @@ Databases will use foreign-key constraints, indexes, and primary-keys whenever p
     1. PaymentMethod: String.
     1. Weight: Float.
     1. Shipped: Boolean.
-    1. TrackingNumber: Number.
+    1. TrackingNumber: String.
     1. DateShipped: Date.
     1. TimeShipped: Time.
 1. #### [OrderProducts](./Flat/Markdown/OrderProducts.md)    
