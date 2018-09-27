@@ -1,0 +1,39 @@
+[[Role]]
+ID = 1
+Name = "Administrator"
+
+[[Role]]
+ID = 2
+Name = "Guest"
+
+[[Role]]
+ID = 3
+Name = "User"
+
+[[Role]]
+ID = 4
+Name = "Power User"
+
+[[Role]]
+ID = 5
+Name = "Auditor"
+
+[[Role]]
+ID = 6
+Name = "Manager"
+
+[[Role]]
+ID = 7
+Name = "Developer"
+
+[[Role]]
+ID = 8
+Name = "Tester"
+
+[[Role]]
+ID = 9
+Name = "Executive"
+
+[[Role]]
+ID = 10
+Name = "Human Resources"
