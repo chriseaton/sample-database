@@ -19,13 +19,13 @@ first and then run the appropriate script to create the schema and data.
 - ~~[MySQL 7+](./MySQL)~~ Coming soon.
 - ~~[Postgres 8+](./Postgres)~~ Coming soon.
 - [Microsoft SQL Server](./Microsoft%20SQL%20Server)
-- [Microsoft Access](./Microsoft%20Office)
+- [Microsoft Access](./Microsoft%20Office/Access)
 
 ### File Formats
 - [CSV](./Flat/CSV/)
 - [JSON](./Flat/JSON)
 - [Markdown](./Flat/Markdown)
-- [Microsoft Excel](./Microsoft%20Office)
+- [Microsoft Excel](./Microsoft%20Office/Excel)
 - [OpenDocument Spreadsheet](./Open%20Document%20Format)
 - [TOML](./Flat/TOML)
 - [TSV](./Flat/TSV)
