@@ -24,7 +24,7 @@ first and then run the appropriate script to create the schema and data.
 ### File Formats
 - [CSV](./Flat/CSV/)
 - [JSON](./Flat/JSON)
-- [Markdown](./Flat)
+- [Markdown](./Flat/Markdown)
 - [Microsoft Excel](./Microsoft%20Office)
 - [OpenDocument Spreadsheet](./Open%20Document%20Format)
 - [TOML](./Flat/TOML)
@@ -48,7 +48,7 @@ In file-based formats, where a column is a Binary data type, we will use a base-
 Databases will use foreign-key constraints, indexes, and primary-keys whenever possible.
 
 ### Dataset
-1. #### Addresses    
+1. #### [Addresses](./Flat/Markdown/Addresses.md)    
     ##### Rows: 1000
     ##### Columns:
     1. ID: Integer, auto-increments, not null.
@@ -60,7 +60,7 @@ Databases will use foreign-key constraints, indexes, and primary-keys whenever p
     1. Country: String.
     1. Latitude: Integer.
     1. Longitude: Integer.
-1. #### Customers    
+1. #### [Customers](./Flat/Markdown/Customers.md)    
     ##### Rows: 1000
     ##### Columns:
     1. ID: Integer, auto-increments, not null.
@@ -74,7 +74,7 @@ Databases will use foreign-key constraints, indexes, and primary-keys whenever p
     1. DateCreated: DateTime, not null.
     1. DateUpdated: DateTime.
     1. DateDeleted: DateTime.
-1. #### Orders    
+1. #### [Orders](./Flat/Markdown/Orders.md)    
     ##### Rows: 1500
     ##### Columns:
     1. ID: Integer, auto-increments, not null.
@@ -87,7 +87,7 @@ Databases will use foreign-key constraints, indexes, and primary-keys whenever p
     1. TrackingNumber: Number.
     1. DateShipped: Date.
     1. TimeShipped: Time.
-1. #### OrderProducts    
+1. #### [OrderProducts](./Flat/Markdown/OrderProducts.md)    
     ##### Rows: 3000
     ##### Columns:
     1. OrderID: Integer, foreign-key.
@@ -97,7 +97,7 @@ Databases will use foreign-key constraints, indexes, and primary-keys whenever p
     1. UnitPrice: Float, not null.
     1. TotalCost: Float, not null.
     1. TotalPrice: Float, not null.
-1. #### Products    
+1. #### [Products](./Flat/Markdown/Products.md)    
     ##### Rows: 1000
     ##### Columns:
     1. ID: Integer, auto-increments, not null.
@@ -109,7 +109,7 @@ Databases will use foreign-key constraints, indexes, and primary-keys whenever p
     1. DateCreated: DateTime, not null.
     1. DateUpdated: DateTime.
     1. DateDeleted: DateTime.
-1. #### Users    
+1. #### [Users](./Flat/Markdown/Users.md)    
     ##### Rows: 200
     ##### Columns:
     1. ID: Integer, auto-increments, not null.
@@ -120,7 +120,7 @@ Databases will use foreign-key constraints, indexes, and primary-keys whenever p
     1. DateCreated: DateTime, not null.
     1. DateUpdated: DateTime.
     1. DateDeleted: DateTime.
-1. #### Roles    
+1. #### [Roles](./Flat/Markdown/Roles.md)    
     ##### Rows: 10
     ##### Columns:
     1. ID: Integer, auto-increments, not null.
