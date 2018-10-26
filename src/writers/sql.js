@@ -36,15 +36,28 @@ function write(options, ds) {
                 let columns = [];
                 for (let s of spec) {
                     let col = { name: s.name, notNull: s.notNull };
-                    switch (s.dataType) {
-                        case DataTypes.BINARY: col.dataType = 'BLOB'; break;
-                        case DataTypes.BOOLEAN: col.dataType = 'BIT'; break;
-                        case DataTypes.DATE: col.dataType = 'DATE'; break;
-                        case DataTypes.DATETIME: col.dataType = 'DATETIME'; break;
-                        case DataTypes.FLOAT: col.dataType = 'FLOAT'; break;
-                        case DataTypes.INTEGER: col.dataType = 'INT'; break;
-                        case DataTypes.TEXT: col.dataType = 'VARCHAR(512)'; break;
-                        case DataTypes.TIME: col.dataType = 'TIME'; break;
+                    if (dialect === 'sqlite') {
+                        switch (s.dataType) {
+                            case DataTypes.BINARY: col.dataType = 'BLOB'; break;
+                            case DataTypes.BOOLEAN: col.dataType = 'INTEGER'; break;
+                            case DataTypes.DATE: col.dataType = 'TEXT'; break;
+                            case DataTypes.DATETIME: col.dataType = 'TEXT'; break;
+                            case DataTypes.FLOAT: col.dataType = 'REAL'; break;
+                            case DataTypes.INTEGER: col.dataType = 'INTEGER'; break;
+                            case DataTypes.TEXT: col.dataType = 'TEXT'; break;
+                            case DataTypes.TIME: col.dataType = 'TEXT'; break;
+                        }
+                    } else {
+                        switch (s.dataType) {
+                            case DataTypes.BINARY: col.dataType = 'VARBINARY(8192)'; break;
+                            case DataTypes.BOOLEAN: col.dataType = 'BIT'; break;
+                            case DataTypes.DATE: col.dataType = 'DATE'; break;
+                            case DataTypes.DATETIME: col.dataType = 'DATETIME'; break;
+                            case DataTypes.FLOAT: col.dataType = 'FLOAT'; break;
+                            case DataTypes.INTEGER: col.dataType = 'INT'; break;
+                            case DataTypes.TEXT: col.dataType = 'VARCHAR(512)'; break;
+                            case DataTypes.TIME: col.dataType = 'TIME'; break;
+                        }
                     }
                     columns.push(col);
                 }
@@ -55,7 +68,7 @@ function write(options, ds) {
                 tableMap.set(cls.name, table);
                 script += `--Create table "${cls.name}".\n`;
                 script += table.create();
-                script += '\n\n';
+                script += ';\n\n';
             }
             //insert data.
             for (let [cls, prop] of schemas) {
