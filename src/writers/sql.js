@@ -4,6 +4,7 @@ const Dataset = require('../dataset.js');
 const Options = require('../options.js');
 const DataTypes = require('../data-types.js');
 const sql = require('sql');
+const pluralize = require('pluralize');
 
 /**
  * Writes the `Dataset` instance to a sqlite script.
@@ -49,7 +50,7 @@ function write(options, ds) {
                         }
                     } else {
                         switch (s.dataType) {
-                            case DataTypes.BINARY: col.dataType = 'VARBINARY(8192)'; break;
+                            case DataTypes.BINARY: col.dataType = 'VARBINARY(MAX)'; break;
                             case DataTypes.BOOLEAN: col.dataType = 'BIT'; break;
                             case DataTypes.DATE: col.dataType = 'DATE'; break;
                             case DataTypes.DATETIME: col.dataType = 'DATETIME'; break;
@@ -62,7 +63,7 @@ function write(options, ds) {
                     columns.push(col);
                 }
                 let table = sql.define({
-                    name: cls.name,
+                    name: pluralize(cls.name),
                     columns: columns
                 });
                 tableMap.set(cls.name, table);
@@ -73,11 +74,30 @@ function write(options, ds) {
             //insert data.
             for (let [cls, prop] of schemas) {
                 let data = ds[prop];
+                let spec = cls.spec();
                 let table = tableMap.get(cls.name);
                 script += `--Insert data for table "${cls.name}".\n`;
                 for (let d of data) {
-                    script += table.insert(d);
-                    script += ';\n';
+                    //convert
+                    for (let s of spec) {
+                        if (s.dataType === DataTypes.BOOLEAN) {
+                            if (d[s.name] === false) {
+                                d[s.name] = 0;
+                            } else if (d[s.name] === true) {
+                                d[s.name] = 1;
+                            }
+                        } else if (s.dataType === DataTypes.BINARY && d[s.name]) {
+                            d[s.name] = '{hex{' + Buffer.from(d[s.name], 'base64').toString('hex').toUpperCase() + '}}';
+                        }
+                    }
+                    //generate query
+                    let query = table.insert(d).toString();
+                    //handle binary
+                    if (query.indexOf('{hex{') > -1) {
+                        query = query.replace(/('{hex{)(.+)(}}')/, '0x$2');
+                    }
+                    //add to script
+                    script += `${query};\n`;
                 }
                 script += '\n\n';
             }

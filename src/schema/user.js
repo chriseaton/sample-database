@@ -53,7 +53,7 @@ class User {
             { name: 'ID', dataType: DataTypes.INTEGER, key: true, notNull: true },
             { name: 'RoleID', dataType: DataTypes.INTEGER, key: false, notNull: true },
             { name: 'UserName', dataType: DataTypes.TEXT, key: false, notNull: true },
-            { name: 'Password', dataType: DataTypes.FLOAT, key: false, notNull: true },
+            { name: 'Password', dataType: DataTypes.TEXT, key: false, notNull: true },
             { name: 'DateCreated', dataType: DataTypes.DATETIME, key: false, notNull: true },
             { name: 'DateUpdated', dataType: DataTypes.DATETIME, key: false, notNull: false },
             { name: 'DateDeleted', dataType: DataTypes.DATETIME, key: false, notNull: false }
