@@ -1,0 +1,1001 @@
+ID,Line1,Line2,City,PostalCode,StateProvince,Country,Latitude,Longitude
+1,2727 Galghard Square,,Dormansville,12055,NY,United States of America,-74.0453165,42.48311475
+2,1439 Hurbadome Ave.,,Bladensburg,20710,MD,United States of America,-76.924107,38.9447785
+3,3217 Newport Lane,,Hillsboro,35643,AL,United States of America,-87.20083675,34.64450175
+4,1915 Elgin Court,,West Townshend,5359,VT,United States of America,-72.709951,43.14252925
+5,3497 School Square,,Elk Falls,67345,KS,United States of America,-96.21179825,37.36277425
+6,2155 Shopping Ct.,,Harrisville,2830,RI,United States of America,-71.64902875,41.97374875
+7,318 Farmer's Street,,Lurgan,17232,PA,United States of America,-77.64078475,40.114387
+8,7768 Costume Ave.,,Meriden,82081,WY,United States of America,-104.4094958,41.5184575
+9,9571 Hurricane Road,Suite #940,Captain Cook,96704,HI,United States of America,-155.811518,19.348166
+10,6557 Birchpond Ct.,Apt. #814,Weskan,67762,KS,United States of America,-101.935778,38.902823
+11,4352 Pažkoliť Úskalie Ln.,,Tracy,95376,CA,United States of America,-121.4242868,37.73819125
+12,6871 Southern Millstreet Ct.,,Strange Creek,26639,WV,United States of America,-80.9024635,38.571138
+13,1102 Galghard Rd.,,Vineyard,84058,UT,United States of America,-111.7729138,40.2109615
+14,355 Storm Alley Avenue,,Reeseville,53579,WI,United States of America,-88.87571925,43.29758875
+15,7019 Adelaide Road,Apt. #804,Carroll,68723,NE,United States of America,-97.19315875,42.2840275
+16,3158 Lucy Ln.,Apt. #694,Dunkirk,20754,MD,United States of America,-76.646459,38.736284
+17,9918 Maple Court,Ste. #471,Sacramento,88347,NM,United States of America,-105.6498523,32.78785775
+18,7300 Industry Rd.,Ste. #354,Killdeer,58640,ND,United States of America,-102.7089738,47.474312
+19,3545 Long Ave.,Unit #125,Winnsboro,29180,SC,United States of America,-81.1273185,34.364706
+20,9215 Eaton St.,,Paradis,70080,LA,United States of America,-90.43673025,29.874708
+21,429 Beechwood Court,,Rickreall,97371,OR,United States of America,-123.201792,45.0017125
+22,6500 Katrina Road,,Wright,67882,KS,United States of America,-99.90513075,37.80018125
+23,6610 Beatles Court,,Wadley,30477,GA,United States of America,-82.3868665,32.8655455
+24,3828 Danish Square,,Ogunquit,3907,ME,United States of America,-70.60370025,43.2452375
+25,1896 Quarry Rd.,Unit #568,Berlin,21811,MD,United States of America,-75.22098125,38.32217825
+26,7119 Glider Ln.,,Manokotak,99628,AK,United States of America,-158.938054,58.915224
+27,1999 Libertas Street,,Yatesville,31097,GA,United States of America,-84.16540525,32.90237025
+28,2195 Impressionist Rd.,,Barrington,2806,RI,United States of America,-71.3193465,41.74060725
+29,4948 Abby Park Ave.,,Topsfield,4490,ME,United States of America,-67.71877925,45.4470455
+30,3807 Water Road,Suite #539,Sabetha,66534,KS,United States of America,-95.836441,39.87759475
+31,5971 Southern Millstreet Rd.,,Saint Martinvill,70582,LA,United States of America,-91.690037,30.25116175
+32,1819 Subway Square,Apt. #585,Sasakwa,74867,OK,United States of America,-96.55028225,34.95001975
+33,6068 Southern Millstreet Ln.,Suite #936,Scranton,66537,KS,United States of America,-95.75745725,38.789069
+34,5315 Hurbanova Street,Apt. #181,West Logan,25601,WV,United States of America,-81.98667275,37.846342
+35,8051 Corn Square,,Pineville,29468,SC,United States of America,-80.07720375,33.4117615
+36,1890 Sobrance Ave.,,Goodsprings,89019,NV,United States of America,-115.477674,35.80097625
+37,6582 Noble City Rd.,,Las Vegas,89124,NV,United States of America,-115.3494378,35.99418
+38,725 Sebastian Ave.,#496,Saint Cloud,53079,WI,United States of America,-88.192714,43.8053565
+39,7306 Museum Rd.,Apt. #997,Lewis,81327,CO,United States of America,-108.6285745,37.50065525
+40,3497 River Ave.,,Jordan Valley,97910,OR,United States of America,-117.7718635,42.718607
+41,6831 Central Cesta St.,Apt. #853,Burlington,4417,ME,United States of America,-68.418836,45.1993475
+42,9589 Medieval Rd.,,Kirkland,86332,AZ,United States of America,-112.89872,34.47396625
+43,6191 West Rd.,,Tuscarora,89834,NV,United States of America,-116.716593,41.132047
+44,8835 Newhaven Square,,Alden,56009,MN,United States of America,-93.58678075,43.6341885
+45,4681 Gateway Ln.,,Blanks,70717,LA,United States of America,-91.61296125,30.534762
+46,6361 Hendrix Rd.,Ste. #120,Chignik,99564,AK,United States of America,-158.3776013,56.30388
+47,1859 Abby Park Ave.,,Lakin,67860,KS,United States of America,-101.304825,37.9846385
+48,8504 Newport Avenue,Apt. #979,Hawk Springs,82217,WY,United States of America,-104.3471313,41.729748
+49,548 Subway Road,#904,Cement,73017,OK,United States of America,-98.159052,34.9338545
+50,9044 Venice Ln.,Suite #271,Prineville,97754,OR,United States of America,-120.661947,44.256396
+51,5247 Southern Millstreet Court,Apt. #437,Mosca,81146,CO,United States of America,-105.7213855,37.63512025
+52,5181 Heritage Sq.,,Eaton Rapids,48827,MI,United States of America,-84.6589105,42.516618
+53,6106 Walden Alley Court,,Bozrah,6334,CT,United States of America,-72.176031,41.5470175
+54,1703 Oakwood Ave.,Apt. #907,Stamford,6901,CT,United States of America,-73.53976125,41.0547165
+55,7429 Hendrix Road,,Lyons,80540,CO,United States of America,-105.4245708,40.236195
+56,7707 Southern Square,Unit #404,Gibson,28343,NC,United States of America,-79.5826495,34.76215075
+57,4042 Venice Rd.,Apt. #329,Richmond,2892,RI,United States of America,-71.59244225,41.50460775
+58,2186 Hurbadome Court,,Laceyville,18623,PA,United States of America,-76.12552075,41.683439
+59,1003 Walton Lane,,Sauk Rapids,56379,MN,United States of America,-94.09489625,45.636504
+60,9093 Pine St.,Unit #244,Kenton,49943,MI,United States of America,-88.812933,46.491565
+61,3290 Arthur Lane,,Drake,58736,ND,United States of America,-100.388792,47.86162125
+62,3353 Ida Lane,Apt. #780,Mooseheart,60539,IL,United States of America,-88.33485825,41.82673925
+63,1049 Overbanken Ln.,,Overton,89040,NV,United States of America,-114.5240995,36.484815
+64,7494 Adelaide St.,Suite #903,Wellington,36279,AL,United States of America,-85.9084415,33.867659
+65,9879 Leatherwood Square,,Burneyville,73430,OK,United States of America,-97.32305775,33.96025875
+66,2306 Maple Ln.,Apt. #154,Glidden,54527,WI,United States of America,-90.6537025,46.1492365
+67,4169 Mill Place Ln.,,Fontana Dam,28733,NC,United States of America,-83.81606125,35.4319325
+68,352 Auerbach Ln.,Apt. #424,Charlton,1507,MA,United States of America,-71.97115475,42.133267
+69,2616 NW Avenue,,Spencer,57374,SD,United States of America,-97.60491325,43.76001375
+70,5327 Stone Court,,Mustang,73064,OK,United States of America,-97.74652325,35.38323375
+71,7437 Technology Court,,Papillion,68157,NE,United States of America,-95.999986,41.17798625
+72,8853 East Hills Rd.,Unit #143,Holualoa,96725,HI,United States of America,-155.8220425,19.57192425
+73,3896 Empire Sq.,,Pawtucket,2861,RI,United States of America,-71.3545745,41.87911675
+74,4650 Pine Ave.,,Belmont,3220,NH,United States of America,-71.475377,43.45788575
+75,289 Mitch Cromwood Street,,Smithfield,2917,RI,United States of America,-71.52679725,41.9019455
+76,5482 Easy Ln.,Suite #918,Athens,4912,ME,United States of America,-69.653156,44.943695
+77,902 Elisabeth Ct.,Unit #331,Mc Cool,39108,MS,United States of America,-89.274861,33.14438775
+78,7628 Queen Mary Elisabeth Alley Ave.,Suite #833,Rainier,97048,OR,United States of America,-122.9741118,46.0518215
+79,6930 Hurbadome Rd.,Apt. #861,Navajo Dam,87419,NM,United States of America,-107.6888305,36.83878875
+80,9017 Technology Rd.,,Brampton,49837,MI,United States of America,-87.0802085,45.8746255
+81,3797 Barn Sq.,,Ronan,59864,MT,United States of America,-114.133288,47.52435225
+82,1371 Quarry Rd.,,Norton,24273,VA,United States of America,-82.62696075,36.94680675
+83,9618 E Avenue,,Jelm,82063,WY,United States of America,-105.9600853,41.08408275
+84,7477 Airport Road,,Florence,66851,KS,United States of America,-96.93861475,38.21234075
+85,7214 Western Cesta Street,,Crown Point,46307,IN,United States of America,-87.33124475,41.40325875
+86,2327 Bay Lane,,Lee,3824,NH,United States of America,-70.9592585,43.128214
+87,118 Beatles Rd.,,Park City,84060,UT,United States of America,-111.5078445,40.66018375
+88,5208 Central Sq.,Unit #494,Aurora,57002,SD,United States of America,-96.69202425,44.2935075
+89,1159 Swamp Ct.,,Canon City,81212,CO,United States of America,-105.330764,38.46955475
+90,6151 Empire Court,,Saratoga,77585,TX,United States of America,-94.58142,30.36542125
+91,7596 Shopping Square,,West Memphis,72301,AR,United States of America,-90.1244705,35.13265
+92,7470 Cavour Ct.,Apt. #277,Midvale,84047,UT,United States of America,-111.885831,40.613162
+93,9036 Hospital Lane,,Alpine,38543,TN,United States of America,-85.15637775,36.37004375
+94,5979 Heritage Ave.,,Pegram,37143,TN,United States of America,-87.0325805,36.1335215
+95,6155 Pine Ct.,Suite #639,Neversink,12765,NY,United States of America,-74.6119415,41.856003
+96,2133 Queen Mary Elisabeth Alley Rd.,,Samson,36477,AL,United States of America,-86.06952725,31.09681275
+97,9890 Delaware Ln.,Apt. #487,Briggsville,72828,AR,United States of America,-93.516453,34.9068925
+98,1044 Arthur Sq.,,Charleroi,15022,PA,United States of America,-79.9327865,40.142265
+99,8047 Paul Hladovka Ln.,Suite #458,Zahl,58856,ND,United States of America,-103.6655525,48.587354
+100,8807 Forest Ct.,Apt. #453,Big Bend,71318,LA,United States of America,-91.845065,31.079347
+101,5129 Delaware Ct.,,Tunas,65764,MO,United States of America,-92.96993025,37.835155
+102,7606 Mandarin Park St.,,Casa,72025,AR,United States of America,-93.04886875,35.033194
+103,206 Oceana Side-street Square,,Bandytown,25204,WV,United States of America,-81.6331865,37.92539125
+104,3501 Birchpond Street,,Shelbina,63468,MO,United States of America,-92.01449775,39.71237975
+105,6542 Constitution Square,,Gallatin,37066,TN,United States of America,-86.45916925,36.3836285
+106,9594 Maple Square,,Hoolehua,96729,HI,United States of America,-157.0935958,21.156492
+107,5874 Quarry Street,,Altamont,84001,UT,United States of America,-110.4621953,40.39203725
+108,8497 Vlackstreet Court,Unit #350,Westerville,68881,NE,United States of America,-99.3962415,41.411449
+109,4751 River St.,Unit #533,Roxie,39661,MS,United States of America,-91.06618525,31.475378
+110,9710 SW Square,,Coolin,83821,ID,United States of America,-116.8355498,48.604165
+111,1795 Hot-air Ballon Avenue,Apt. #123,New Boston,3070,NH,United States of America,-71.68343125,42.9700025
+112,479 Arthur Ln.,Apt. #690,Alvin,29479,SC,United States of America,-79.95074275,33.39860825
+113,9224 Old Port Ct.,,Winfield,63389,MO,United States of America,-90.79094325,38.99680775
+114,378 Newport Road,,Hazleton,50641,IA,United States of America,-91.9135595,42.60118975
+115,8224 Cresson Crescent Court,,West Warren,1092,MA,United States of America,-72.21202625,42.203602
+116,8746 Leatherwood Square,,Haddam,6438,CT,United States of America,-72.50443675,41.4610785
+117,2843 Corn St.,,Kapaau,96755,HI,United States of America,-155.7992045,20.187576
+118,1895 Kings St.,,Milan,3588,NH,United States of America,-71.1951145,44.59910825
+119,1735 SE Lane,,Mooresville,46158,IN,United States of America,-86.36569475,39.580009
+120,4816 History St.,Apt. #275,Washington,20336,DC,United States of America,-77.018913,38.8379745
+121,2253 Ida Street,#972,Crab Orchard,40419,KY,United States of America,-84.484222,37.44895
+122,2426 West Sq.,,Strathmere,8248,NJ,United States of America,-74.65940225,39.19625275
+123,2981 Hot-air Ballon Street,,Wolf Point,59201,MT,United States of America,-105.585347,48.24356775
+124,3796 Bay Lane,Apt. #874,Hinton,73047,OK,United States of America,-98.269656,35.46516075
+125,8111 Danish Rd.,,Matlock,98560,WA,United States of America,-123.3946178,47.2840525
+126,3242 Elisabeth Square,,Benedict,66714,KS,United States of America,-95.645231,37.64735625
+127,3591 Flower Square,,Pahoa,96778,HI,United States of America,-154.9996455,19.45779
+128,8163 Cavour Ln.,Ste. #732,Fort Pillow,38041,TN,United States of America,-89.67609575,35.66348275
+129,949 Francis II Square,Apt. #777,Hampton,3842,NH,United States of America,-70.838142,42.93425625
+130,144 Constitution St.,,Holmen,54636,WI,United States of America,-91.25887775,43.9992235
+131,9781 North Avenue,,Rushville,46173,IN,United States of America,-85.42518925,39.612452
+132,7116 Bus Court,,Newport News,23603,VA,United States of America,-76.571163,37.19383575
+133,3768 History Avenue,,West Union,56389,MN,United States of America,-95.0834645,45.80025175
+134,2044 Belby Court,,Sanford,81151,CO,United States of America,-105.7570743,37.215462
+135,7416 Hurbadome Street,,Eros,71238,LA,United States of America,-92.360931,32.36730625
+136,7650 Adelaide Court,Apt. #257,Mansfield Center,6250,CT,United States of America,-72.19986475,41.77864225
+137,3023 Rail Road,,Cooksville,61730,IL,United States of America,-88.74455925,40.53187775
+138,547 Ida Lane,Unit #452,Blairstown,7825,NJ,United States of America,-74.95143875,40.96607125
+139,5210 Theater Street,,Smoot,83126,WY,United States of America,-110.9060693,42.55530125
+140,693 Law Avenue,,Groton,1450,MA,United States of America,-71.5723045,42.61543425
+141,7677 Shall Court,,Seville,32190,FL,United States of America,-81.5037245,29.34171025
+142,9188 Impressionist Rd.,Apt. #365,Syria,22743,VA,United States of America,-78.36008725,38.512343
+143,4576 Western Cesta Sq.,,New Braintree,1531,MA,United States of America,-72.1275805,42.32024475
+144,9198 Francis II Sq.,,Flagstaff,86004,AZ,United States of America,-111.450278,35.247903
+145,1361 William Square,Apt. #950,Granada,81041,CO,United States of America,-102.3825645,37.89578725
+146,9547 S St.,,Lewiston,84320,UT,United States of America,-111.8663065,41.957841
+147,3268 Hendrix St.,Suite #736,Felton,19943,DE,United States of America,-75.604665,39.01677875
+148,3225 Leatherwood Lane,,Steffenville,63470,MO,United States of America,-91.85945,39.993976
+149,4412 Auburn Ln.,,Ojibwa,54862,WI,United States of America,-91.13443825,45.8052485
+150,2286 Tunnel Square,,Morgan,31766,GA,United States of America,-84.61851875,31.542904
+151,3215 Dubnitz Court,,Marion,29571,SC,United States of America,-79.40562825,34.11792775
+152,5235 Heritage Rd.,,Pitkin,81241,CO,United States of America,-106.5166525,38.6085075
+153,7432 Communal Ct.,,Barrington,2806,RI,United States of America,-71.3193465,41.74060725
+154,3923 Technology Lane,,Perry,4667,ME,United States of America,-67.10991,44.9834135
+155,4587 Wallstreet Ct.,,Corrales,87048,NM,United States of America,-106.623586,35.23834075
+156,7789 Central Cesta Sq.,,Douglas City,96024,CA,United States of America,-122.87938,40.62936525
+157,6698 Federation Court,Suite #489,Blount,25025,WV,United States of America,-81.38783975,38.29296025
+158,1182 Elgin Ave.,Apt. #352,Naytahwaush,56566,MN,United States of America,-95.61839775,47.2436375
+159,6363 Marine Sq.,Unit #713,Cedaredge,81413,CO,United States of America,-107.9078988,38.9504535
+160,8271 Leatherwood St.,,Auburn,4210,ME,United States of America,-70.23998375,44.0838635
+161,2153 Hazlett Ct.,,West Paris,4289,ME,United States of America,-70.54394175,44.33708625
+162,3112 Dock Ct.,,Wolf Creek,59648,MT,United States of America,-111.9218503,46.9305285
+163,317 Old Port Ave.,,Bivalve,21814,MD,United States of America,-75.89152475,38.29582
+164,8803 E Rd.,,Biggs,95917,CA,United States of America,-121.7431425,39.41388
+165,3520 Sylvania Ave.,,Beaverton,97005,OR,United States of America,-122.8006295,45.49074975
+166,5373 Vienna Sq.,,Boonville,65233,MO,United States of America,-92.726802,38.912771
+167,1350 W Road,,Eielson Afb,99702,AK,United States of America,-147.0856153,64.67460975
+168,4523 Beechwood Rd.,,Conaway,24603,VA,United States of America,-82.2360425,37.32026325
+169,7491 Mandarin Park Avenue,Ste. #948,Porum,74455,OK,United States of America,-95.2477295,35.352322
+170,7491 Federation Square,,Dennis,38838,MS,United States of America,-88.2347505,34.55341825
+171,4747 Communal Street,,Fernwood,83830,ID,United States of America,-116.3812743,47.11848025
+172,9882 Railway Avenue,,Charleston,72933,AR,United States of America,-94.037328,35.3270615
+173,6956 Oceana Side-street Ct.,,Hampstead,3841,NH,United States of America,-71.1757705,42.883847
+174,9249 Auburn Ave.,,Lismore,56155,MN,United States of America,-95.9868515,43.72178425
+175,3806 Theater Ct.,,Summerville,29483,SC,United States of America,-80.189803,33.07984225
+176,6205 Leatherwood Square,,Gunpowder,21010,MD,United States of America,-76.29061475,39.37538075
+177,5887 Beach Lane,,Narragansett,2882,RI,United States of America,-71.465843,41.4289755
+178,7943 Ocean Square,,Decatur,72722,AR,United States of America,-94.449103,36.33964575
+179,8384 Jameson's Crossing Avenue,,Ethel,39067,MS,United States of America,-89.499465,33.1638355
+180,4864 E Square,,Stoddard,3464,NH,United States of America,-72.11530375,43.07512225
+181,5429 Delta Ln.,Suite #973,Pearl City,96782,HI,United States of America,-157.9358293,21.41417925
+182,4440 Pine Rd.,,Paw Paw,41551,KY,United States of America,-82.134942,37.435562
+183,922 Newport Avenue,Apt. #655,Waimanalo,96795,HI,United States of America,-157.7084485,21.346658
+184,4679 E Square,Apt. #797,Timpas,81050,CO,United States of America,-103.5331335,37.96373375
+185,3942 Railway Ln.,,Medley,26734,WV,United States of America,-79.09800625,39.2443185
+186,6431 Vienna Road,,Rose City,48654,MI,United States of America,-84.1263975,44.45791975
+187,2322 Bus Lane,Suite #296,Urbana,46990,IN,United States of America,-85.739346,40.90378125
+188,9421 New Rd.,Suite #589,Bybee,22963,VA,United States of America,-78.2878925,37.84753725
+189,2193 Sebastian Street,Apt. #667,Leeds,4263,ME,United States of America,-70.13328775,44.28748675
+190,7749 SE Street,Apt. #740,Milton,2186,MA,United States of America,-71.08008475,42.2426215
+191,5590 Queen Mary Elisabeth Alley Ave.,Unit #916,Quincy,49082,MI,United States of America,-84.87021175,41.954485
+192,7304 Andreas Court,Suite #120,Manhattan,66502,KS,United States of America,-96.55706,39.1792265
+193,5328 E Lane,,Lenox,31637,GA,United States of America,-83.42966175,31.2697665
+194,7249 Copper Street,Apt. #446,Sardis,38666,MS,United States of America,-89.946512,34.41395
+195,4550 Cleveland St.,Apt. #349,Cowan,37318,TN,United States of America,-85.998301,35.18157725
+196,8519 State Lane,,Hector,55342,MN,United States of America,-94.71743925,44.7576195
+197,1231 West Lane,Apt. #774,Ward,57074,SD,United States of America,-96.481325,44.155883
+198,7356 Overbanken Square,,Enning,57737,SD,United States of America,-102.6104305,44.53672175
+199,7434 Museum Ave.,,Washington,20024,DC,United States of America,-77.021116,38.8729015
+200,1577 Poet's Street,Apt. #428,Pentagon,20301,DC,United States of America,-77.051174,38.87562975
+201,6662 Paul Hladovka Ln.,Unit #159,Pentagon,20301,DC,United States of America,-77.051174,38.87562975
+202,7735 History Lane,Suite #183,Lawrence,46226,IN,United States of America,-86.05434725,39.8390825
+203,5033 Dubnitz Sq.,,Wrightstown,8562,NJ,United States of America,-74.5982335,40.07156375
+204,767 Woodstock Ave.,,Malone,32445,FL,United States of America,-85.1849985,30.96446525
+205,6962 Abby Park St.,,Tujunga,91042,CA,United States of America,-118.2486723,34.26567575
+206,6823 Airport Rd.,,Tower City,17980,PA,United States of America,-76.5432,40.59044125
+207,8898 Hurbanova Ct.,,Manville,2838,RI,United States of America,-71.4711175,41.96687825
+208,652 Hurbadome St.,,Southport,46217,IN,United States of America,-86.1926845,39.67457275
+209,3343 Bus Rd.,,Wishon,93669,CA,United States of America,-119.5558568,37.27769725
+210,3949 Poet's Rd.,,Ruby Valley,89833,NV,United States of America,-115.232704,40.3864475
+211,5915 Sycamore Drive Avenue,,Storden,56174,MN,United States of America,-95.286119,44.06162825
+212,1973 Glider Avenue,Apt. #772,Pomaria,29126,SC,United States of America,-81.42160425,34.32260925
+213,999 Pine Sq.,,Boggs,26299,WV,United States of America,-80.607389,38.482119
+214,5186 Pažkoliť Úskalie Square,,Marion Station,21838,MD,United States of America,-75.73279225,38.0241875
+215,488 Newport Court,,Mendham,7945,NJ,United States of America,-74.595445,40.7814285
+216,9734 Pine Court,,Lakeville,6039,CT,United States of America,-73.43124825,41.95073175
+217,2994 Galvin Rd.,,Springville,84663,UT,United States of America,-111.595343,40.15784575
+218,3394 Millstreet St.,,Feeding Hills,1030,MA,United States of America,-72.675152,42.07015425
+219,8398 East Ln.,,Council,83612,ID,United States of America,-116.6041993,44.900337
+220,565 Monorail Ln.,,Franklinville,8322,NJ,United States of America,-75.039974,39.6169775
+221,5190 S Road,,Waterford,16441,PA,United States of America,-80.004586,41.9573005
+222,3784 Delta Court,,Anderson Island,98303,WA,United States of America,-122.705277,47.15683675
+223,581 Glendale Road,Apt. #735,Hinkley,92347,CA,United States of America,-117.3363278,35.04552725
+224,5670 Southern St.,,Gillett,54124,WI,United States of America,-88.34190825,44.9104905
+225,7343 Jameson's Crossing Avenue,,Pullman,99163,WA,United States of America,-117.072892,46.863422
+226,8077 Sycamore Drive Road,,Level Green,15085,PA,United States of America,-79.73172025,40.3844455
+227,3907 Powell Ln.,,Glen Head,11545,NY,United States of America,-73.59537575,40.82313975
+228,1125 Pažkoliť Úskalie Ave.,,Rawlings,23876,VA,United States of America,-77.83557825,36.94894575
+229,1444 Beatles Ln.,,Clayton,30525,GA,United States of America,-83.38666975,34.87188225
+230,9730 East St.,,Kit Carson,80825,CO,United States of America,-102.8229905,38.821717
+231,2088 Bus Street,,Dames Quarter,21820,MD,United States of America,-75.900082,38.190568
+232,9600 Arthur Ave.,,Rowan,50470,IA,United States of America,-93.560731,42.76567175
+233,572 State Lane,,Dearborn,64439,MO,United States of America,-94.762933,39.5252925
+234,851 New Ave.,,Groton,1450,MA,United States of America,-71.5723045,42.61543425
+235,166 Beechwood Ct.,Suite #541,Vadito,87579,NM,United States of America,-105.6177113,36.15763975
+236,1773 North Ln.,,Palisade,81526,CO,United States of America,-108.360294,39.0931085
+237,464 Prachstreet Lane,Apt. #548,Crandall,30711,GA,United States of America,-84.75753175,34.930638
+238,7186 Cresson Crescent St.,,Ellis,67637,KS,United States of America,-99.439359,38.94404775
+239,6164 Mill Place Square,,Las Vegas,89107,NV,United States of America,-115.2109443,36.17016375
+240,9430 Andreas Road,,Mullen,69152,NE,United States of America,-101.1144273,41.94129725
+241,9636 People's Lane,Apt. #407,Charlestown,2813,RI,United States of America,-71.66280575,41.39658725
+242,5012 Camp Road,Unit #571,Calhan,80808,CO,United States of America,-104.3091123,38.97909125
+243,7152 E Street,,Crestline,66728,KS,United States of America,-94.70473575,37.165432
+244,2068 Democracy Lane,Apt. #925,Bedford,24523,VA,United States of America,-79.52591975,37.31904925
+245,2401 Farmer's Lane,,Sutherlin,97479,OR,United States of America,-123.1711025,43.409553
+246,3414 Camp Ave.,,Hazel,57242,SD,United States of America,-97.30907225,44.77591175
+247,4307 Rail Street,,Bicknell,47512,IN,United States of America,-87.3252515,38.7721995
+248,4280 Camp Ln.,,Garryowen,59031,MT,United States of America,-107.3001085,45.4879425
+249,3854 Kings Avenue,,Parker,57053,SD,United States of America,-97.140093,43.405694
+250,8791 Hospital Road,,Okaton,57562,SD,United States of America,-100.9256595,43.9579005
+251,6482 Otto St.,Unit #662,Webbers Falls,74470,OK,United States of America,-95.15185675,35.51645925
+252,5294 Princess Ct.,Apt. #605,Warwick,2888,RI,United States of America,-71.4096725,41.74800025
+253,4158 Constitution Sq.,Apt. #217,Bowler,54416,WI,United States of America,-88.944805,44.9529705
+254,6423 Galghard St.,,Waukomis,73773,OK,United States of America,-97.8919175,36.2702345
+255,6525 Temmar Eastwood Street,,Newdale,83436,ID,United States of America,-111.5922738,43.903555
+256,3673 Costume Ave.,,Torrington,6790,CT,United States of America,-73.1246345,41.836705
+257,2332 Federation Lane,,Cherry Hills Vil,80110,CO,United States of America,-104.9809613,39.6472825
+258,2625 Bay Avenue,,Glen Rock,17327,PA,United States of America,-76.7703795,39.77568375
+259,8703 Wallstreet Avenue,,Smithfield,2917,RI,United States of America,-71.52679725,41.9019455
+260,3555 Impressionist Lane,Ste. #684,Rosston,76263,TX,United States of America,-97.45442775,33.4819035
+261,3978 Flower Square,,Oasis,89835,NV,United States of America,-114.6518288,41.074892
+262,4311 Kings Square,Suite #325,Westfield,27053,NC,United States of America,-80.35397125,36.46284275
+263,9391 Federation Square,#281,Lyons,67554,KS,United States of America,-98.155188,38.31721325
+264,5959 Wallstreet Road,,Oakesdale,99158,WA,United States of America,-117.2681273,47.09000075
+265,4747 Department Sq.,,Athens,12015,NY,United States of America,-73.81387525,42.29163
+266,4870 Robson Avenue,Suite #759,Society Hill,29593,SC,United States of America,-79.8456565,34.446013
+267,943 S Ave.,Ste. #828,Deering,99736,AK,United States of America,-163.008264,66.02174175
+268,9526 Barn Court,,Oakley,67748,KS,United States of America,-100.909495,38.9652295
+269,1277 E Road,Unit #972,Kendrick,83537,ID,United States of America,-116.547916,46.64675625
+270,4037 Theater Rd.,,Salem,24153,VA,United States of America,-80.1067435,37.28423725
+271,6157 Southern Avenue,Ste. #363,Shoshoni,82649,WY,United States of America,-107.9739268,43.18948175
+272,9033 Sylvania St.,Apt. #684,Neoga,62447,IL,United States of America,-88.451872,39.31496875
+273,4578 Pažkoliť Úskalie Sq.,,Evanston,60201,IL,United States of America,-87.699452,42.0557855
+274,4800 Elisabeth Ave.,,San Gabriel,91776,CA,United States of America,-118.0938353,34.088103
+275,3693 Jamal Hustróva Avenue,,La Fayette,30728,GA,United States of America,-85.2395315,34.69618775
+276,2726 California Ct.,,Alapaha,31622,GA,United States of America,-83.183921,31.39240175
+277,2045 E Court,Apt. #969,Fallon,89406,NV,United States of America,-118.453946,39.52057225
+278,3195 Hurbanova Street,,Omaha,72662,AR,United States of America,-93.16477625,36.4285135
+279,111 Galvin Rd.,,Paulden,86334,AZ,United States of America,-112.49075,35.01001025
+280,5921 Elgin Street,Suite #590,Dogpatch,72648,AR,United States of America,-93.149043,36.075921
+281,948 Long Ct.,Apt. #402,Lysite,82642,WY,United States of America,-107.7048615,43.330871
+282,383 Silver Street,,Springhill,71075,LA,United States of America,-93.4700015,32.9917335
+283,3890 Silver Ct.,#283,New Oxford,17350,PA,United States of America,-77.07877125,39.88573525
+284,6813 Overbanken Lane,,Rio Grande,8242,NJ,United States of America,-74.8740565,39.0179555
+285,722 Medieval Ave.,Suite #890,Port Gibson,39150,MS,United States of America,-91.0435695,31.97230075
+286,1878 Birchpond Square,,Pittsfield,4967,ME,United States of America,-69.421724,44.78155075
+287,5854 Marine Rd.,,Post Falls,83854,ID,United States of America,-116.9436185,47.7171555
+288,2871 Dimitri Court,,Olney,76374,TX,United States of America,-98.701151,33.31651275
+289,6938 Robson Square,,Nashoba,74558,OK,United States of America,-95.189344,34.5231505
+290,6119 New Orleans Ln.,Ste. #179,Coulee Dam,99116,WA,United States of America,-119.255202,48.2038295
+291,8121 Southern Millstreet Ln.,Apt. #731,Texico,88135,NM,United States of America,-103.091916,34.49314425
+292,7088 Southern Millstreet Road,,Glennville,30427,GA,United States of America,-81.9786175,31.93671275
+293,722 Barn Ave.,,Shullsburg,53586,WI,United States of America,-90.2238305,42.59642725
+294,8554 Mandarin Park St.,,Monument,97864,OR,United States of America,-119.3955598,44.83550375
+295,2939 Walden Alley Ave.,,Fairchild Air Fo,99011,WA,United States of America,-117.6516728,47.61752375
+296,8100 Libertas Ln.,,Kurtistown,96760,HI,United States of America,-155.0452943,19.57644275
+297,8585 Mayores Court,,Clio,96106,CA,United States of America,-120.540994,39.74271475
+298,9383 Jameson's Crossing Ave.,,Liberal,67901,KS,United States of America,-100.9513085,37.10667875
+299,9484 E Road,,Middletown,2840,RI,United States of America,-71.30627225,41.49014625
+300,8584 Southern Millstreet Road,Unit #991,Grass Creek,82443,WY,United States of America,-108.3965655,43.74266825
+301,4748 Technology Street,,Ariel,98603,WA,United States of America,-122.4590035,46.020825
+302,5550 Prague Court,,Garner,72052,AR,United States of America,-91.77459925,35.12623025
+303,1259 Water Court,,Winona,38967,MS,United States of America,-89.73500275,33.500705
+304,9194 Dean Road,,New York Mills,56567,MN,United States of America,-95.40967675,46.57854025
+305,3541 New Ct.,,Racine,15010,PA,United States of America,-80.34260325,40.76508575
+306,3909 Glider Street,,Hiddenite,28636,NC,United States of America,-81.0611895,35.9378515
+307,3749 Gold Rd.,Suite #912,Aiea,96701,HI,United States of America,-157.9083228,21.39758475
+308,7186 Oceana Side-street Avenue,,Ravenel,29470,SC,United States of America,-80.23458975,32.814068
+309,7373 Elgin Ct.,,Knightsen,94548,CA,United States of America,-121.6514543,37.98040575
+310,2331 Department Square,,Elba,68835,NE,United States of America,-98.61758075,41.31290525
+311,6555 Eastern Cesta Ave.,,Brownsville,97327,OR,United States of America,-122.9424438,44.3467445
+312,3554 Mill Place Lane,,Dollarway,71602,AR,United States of America,-92.074424,34.34082175
+313,7806 Shall Court,,Lenox,1240,MA,United States of America,-73.2707685,42.3664565
+314,8176 California Square,,Macon,27551,NC,United States of America,-78.02899025,36.41543725
+315,5973 NE Ct.,,Bedford,3110,NH,United States of America,-71.53143925,42.9397415
+316,1401 Eaton Rd.,,New Portland,4954,ME,United States of America,-70.0504805,44.89514625
+317,9145 Shall Sq.,,Mineral,23117,VA,United States of America,-77.88369175,37.974201
+318,6736 Ida St.,Apt. #294,Middle River,21220,MD,United States of America,-76.4051195,39.33800475
+319,5651 North Street,,Pocahontas,72455,AR,United States of America,-91.04074025,36.3005025
+320,6114 Quarry Court,Apt. #828,Ashland,67831,KS,United States of America,-99.73294375,37.15655325
+321,3463 Jamal Hustróva Ave.,Suite #886,Berlin,3570,NH,United States of America,-71.24285425,44.445751
+322,1477 Newport Street,Suite #142,Shinnston,26431,WV,United States of America,-80.273133,39.38794725
+323,9495 Railway St.,,Vero Beach,32962,FL,United States of America,-80.3870745,27.591102
+324,3690 Overbanken Lane,,Westfir,97492,OR,United States of America,-122.5202143,43.7596855
+325,5288 Galghard Road,,Washington,20010,DC,United States of America,-77.0307505,38.93306575
+326,2079 Old Port Court,,Jones,36749,AL,United States of America,-86.8630805,32.5643085
+327,1351 Southern St.,,Firebrick,41137,KY,United States of America,-83.040137,38.69110675
+328,6876 Communal Street,,Twin Bridges,59754,MT,United States of America,-112.4336358,45.500131
+329,9217 Elisabeth Street,,Millerville,36267,AL,United States of America,-85.95608675,33.1475605
+330,2973 California Ave.,Apt. #504,Naples,4055,ME,United States of America,-70.618698,43.97066575
+331,1042 Innovation Square,,Vada,41311,KY,United States of America,-83.70683175,37.596888
+332,9144 Beach Ln.,,Lenore,83541,ID,United States of America,-116.4031393,46.57205
+333,8217 Innovation Street,,Laird,80758,CO,United States of America,-102.2681258,40.01508575
+334,8040 Dimitri Lane,,Ellison Bay,54210,WI,United States of America,-87.045941,45.25455625
+335,4092 Mill Place Road,,Hilo,96720,HI,United States of America,-155.2302845,19.69015525
+336,880 Railway St.,,Wendel,96136,CA,United States of America,-120.3328878,40.33374925
+337,2416 Leatherwood Road,Ste. #976,Southside,35901,AL,United States of America,-85.9487145,34.038741
+338,1498 Monorail Court,,Spout Spring,24593,VA,United States of America,-78.91011325,37.370054
+339,8572 Constitution Rd.,Suite #516,Roebuck,29376,SC,United States of America,-81.943484,34.84228675
+340,717 Rome Court,,Waterford,6385,CT,United States of America,-72.15646075,41.357107
+341,1117 History Ave.,,Jacksonville,5342,VT,United States of America,-72.80719675,42.7806995
+342,1139 Federation Rd.,,Lowell,28098,NC,United States of America,-81.09456175,35.27108425
+343,5627 Galvin Square,,Island Park,83429,ID,United States of America,-111.3434918,44.453686
+344,5269 Airport Ave.,,Harpers Ferry,52146,IA,United States of America,-91.209933,43.1765155
+345,3303 Barn Road,#420,Equality,36026,AL,United States of America,-86.10662925,32.80061575
+346,252 Hurbadome Street,,Marydel,19964,DE,United States of America,-75.71919375,39.10643375
+347,9878 Venice Road,,Martin,29836,SC,United States of America,-81.52186275,33.0973115
+348,4153 Sebastian St.,,Aberdeen Proving,21005,MD,United States of America,-76.15045725,39.4454085
+349,2801 Technology Sq.,,Mills,68753,NE,United States of America,-99.4583455,42.8799135
+350,4834 Walton Road,,Cedarvale,87009,NM,United States of America,-105.6712025,34.43985075
+351,3370 Southern Avenue,Apt. #406,Hydaburg,99922,AK,United States of America,-132.3825805,55.113928
+352,1469 Easy Ct.,Ste. #580,El Mirage,85335,AZ,United States of America,-112.3298808,33.5924735
+353,9588 Railway Road,,Delmont,57330,SD,United States of America,-98.1659525,43.260603
+354,5636 East Hills Road,Ste. #941,Lewiston,84320,UT,United States of America,-111.8663065,41.957841
+355,8966 Hazlett Road,,Beulah,38726,MS,United States of America,-91.00831275,33.74238775
+356,8041 Page Avenue,,Greenwood,19950,DE,United States of America,-75.59396325,38.8284825
+357,2205 Central Square,Unit #835,Union Hall,24176,VA,United States of America,-79.673685,36.99912575
+358,9350 Gateway Lane,Unit #788,Vincent,35178,AL,United States of America,-86.396131,33.41508675
+359,8819 Technology Court,,Valmora,87750,NM,United States of America,-104.916525,35.794084
+360,7656 Belby Ct.,Suite #825,Dames Quarter,21820,MD,United States of America,-75.900082,38.190568
+361,9834 Forest Court,,Monticello,47960,IN,United States of America,-86.74112325,40.770092
+362,1710 South Rd.,,Alameda,87114,NM,United States of America,-106.828143,35.1433205
+363,798 P. Auerbach Ct.,,Eureka,61530,IL,United States of America,-89.2545965,40.70804075
+364,3715 Water-lily Street,,Somerton,85350,AZ,United States of America,-114.7143988,32.538285
+365,4055 Pažkoliť Úskalie Ln.,#545,Stevensville,59870,MT,United States of America,-114.016673,46.52519825
+366,9867 Dimitri Ct.,Ste. #299,Ryan Park,82331,WY,United States of America,-106.7909035,41.46313575
+367,7186 Page Road,,Espyville,16424,PA,United States of America,-80.4200785,41.74864125
+368,7945 Libertas Court,Apt. #814,Perry,32347,FL,United States of America,-83.65585325,30.085966
+369,9283 Swit Ave.,,Mt Baldy,91759,CA,United States of America,-117.562057,34.2393865
+370,9404 Vienna Ln.,,Benton,39039,MS,United States of America,-90.23705,32.8342835
+371,2409 Western Cesta St.,Apt. #964,Stockholm,7460,NJ,United States of America,-74.50917375,41.11106
+372,2964 Adelaide Lane,,Independence,97351,OR,United States of America,-123.1675475,44.83214925
+373,3493 Auburn Road,,Burns,37029,TN,United States of America,-87.2829625,36.041723
+374,779 Glider St.,,Brewster,68821,NE,United States of America,-99.84897725,41.921553
+375,4983 Airport Court,,Parishville,13672,NY,United States of America,-74.7786465,44.5533235
+376,2814 Chris Eaton St.,,Linden,28356,NC,United States of America,-78.77884875,35.22038275
+377,7390 Tunnel Road,,Vallecito,95251,CA,United States of America,-120.468875,38.10149375
+378,1684 Rome St.,,Washington,20020,DC,United States of America,-76.9739725,38.8612495
+379,3019 Millstreet Rd.,,Damascus,20872,MD,United States of America,-77.220315,39.28273275
+380,1433 New Court,Suite #445,Pentagon,20301,DC,United States of America,-77.051174,38.87562975
+381,2211 Newport St.,,Sumerduck,22742,VA,United States of America,-77.71357675,38.46344525
+382,8235 Cresson Crescent St.,,Washington,20017,DC,United States of America,-76.99377325,38.9358185
+383,5100 Abby Park Ln.,,Dunmor,42339,KY,United States of America,-86.99765775,37.098601
+384,9496 California Rd.,,Belmont,53510,WI,United States of America,-90.31850875,42.73539425
+385,5545 Sylvania Ct.,,Washington,52353,IA,United States of America,-91.745741,41.3090835
+386,4555 Birchpond Avenue,,Weiner,72479,AR,United States of America,-90.90999125,35.61848825
+387,2676 Forest Rd.,,Parkton,28371,NC,United States of America,-78.994555,34.89989325
+388,8411 Prachstreet Avenue,,Townville,29689,SC,United States of America,-82.87334175,34.52367675
+389,7963 Quarry Square,,Reinbeck,50669,IA,United States of America,-92.59261525,42.301141
+390,9234 Industry Ave.,#509,Surry,3431,NH,United States of America,-72.276178,42.97187
+391,9238 Powell Rd.,Unit #792,Wood River,68883,NE,United States of America,-98.6070475,40.79205675
+392,1862 River Side St.,Apt. #975,Southside,25187,WV,United States of America,-82.0109795,38.70852
+393,6183 Flower Lane,,Overly,58360,ND,United States of America,-100.175958,48.679029
+394,9456 McCrooke Street,Ste. #192,Hanapepe,96716,HI,United States of America,-159.5882698,22.00152125
+395,4525 Shopping Ave.,Suite #314,Hayden,81639,CO,United States of America,-107.1537755,40.5834895
+396,5121 Medieval Sq.,Unit #602,Murrells Inlet,29576,SC,United States of America,-79.05383075,33.55956175
+397,6097 Eaton Sq.,Apt. #214,Evergreen,59901,MT,United States of America,-113.6312158,48.09061525
+398,3590 Oceana Side-street St.,,Jamestown,2835,RI,United States of America,-71.378727,41.512784
+399,6129 Leatherwood Rd.,,Livingston,38570,TN,United States of America,-85.310962,36.37822775
+400,2601 Rail Court,,Weston,68070,NE,United States of America,-96.7873165,41.1775355
+401,3043 Mandarin Park Court,,Montebello,24464,VA,United States of America,-79.08521325,37.8553825
+402,9322 Mill Place Rd.,,Cherry Valley,1611,MA,United States of America,-71.87722775,42.2369285
+403,4708 Museum Avenue,,Sarona,54870,WI,United States of America,-91.752251,45.7165765
+404,7270 Quarry Lane,,Fresno,43824,OH,United States of America,-81.76605225,40.36667325
+405,7160 Copper Ct.,,Blue Springs,68318,NE,United States of America,-96.66093225,40.1559105
+406,4714 Ocean Ct.,,W Harrison,47060,IN,United States of America,-84.9022595,39.279006
+407,3946 East Avenue,Suite #446,North Chatham,2650,MA,United States of America,-69.9656095,41.70340825
+408,7883 Rail Lane,Suite #291,Aaron,42601,KY,United States of America,-85.199114,36.812827
+409,5380 Tunnel Lane,Unit #283,Tipton,93272,CA,United States of America,-119.3115413,36.04546875
+410,8531 Long Rd.,,Colton,99113,WA,United States of America,-117.2204305,46.57166075
+411,4784 SW Ln.,,Noti,97461,OR,United States of America,-123.4744655,44.13480375
+412,130 Western Cesta Ln.,,Sugar Grove,26815,WV,United States of America,-79.29914075,38.53036775
+413,1888 Delaware Street,,Burnham,17009,PA,United States of America,-77.5636845,40.63566075
+414,5411 Highway Road,,Pollock,57648,SD,United States of America,-100.3261145,45.8527385
+415,4225 Quarry Rd.,Apt. #524,Tallula,62688,IL,United States of America,-89.8793355,39.952281
+416,2205 SE Ct.,,Seatac,98158,WA,United States of America,-122.3098913,47.44826425
+417,6080 Farmer's Street,,Clearview,74835,OK,United States of America,-96.171404,35.392585
+418,5798 School Ct.,,Arctic Village,99722,AK,United States of America,-145.484498,68.12169
+419,3538 Hazlett Road,Unit #368,Monroe Center,61052,IL,United States of America,-89.00395375,42.10731025
+420,4397 Airplane Ct.,,Elmwood,68349,NE,United States of America,-96.300572,40.8298355
+421,9378 Hendrix Ave.,,Larsen,54947,WI,United States of America,-88.707462,44.1962145
+422,6643 Bay St.,,Viola,19979,DE,United States of America,-75.57619525,39.05095075
+423,7996 Shall Square,#229,North Smithfield,2895,RI,United States of America,-71.5025275,41.998283
+424,5328 Corn St.,,Kenney,61749,IL,United States of America,-89.0853,40.095759
+425,2866 Cresson Crescent Avenue,,Grand Isle,5458,VT,United States of America,-73.3039225,44.722984
+426,6943 Cavour Ct.,Unit #707,Woolwich,4579,ME,United States of America,-69.77566025,43.9537835
+427,5151 Leatherwood Lane,,Thurmond,28683,NC,United States of America,-80.9322635,36.36621325
+428,2262 W Road,,Portal,85632,AZ,United States of America,-109.2598428,32.10045125
+429,1486 Cavour Lane,,West Greenwich,2817,RI,United States of America,-71.66183775,41.631937
+430,1808 Leatherwood Avenue,Suite #641,Emmett,66422,KS,United States of America,-96.083037,39.320494
+431,2080 Francis II Court,Apt. #379,Oberlin,44074,OH,United States of America,-82.2250065,41.29177125
+432,737 McCrooke Rd.,,Lahoma,73754,OK,United States of America,-98.0563625,36.38944125
+433,9700 Adelaide Ln.,#689,Coventry,2816,RI,United States of America,-71.62167475,41.6932195
+434,8899 Poet's Sq.,Apt. #299,Tipton,49287,MI,United States of America,-84.080731,42.02567375
+435,6513 Eaton St.,,Dover,28526,NC,United States of America,-77.37648975,35.26133425
+436,2888 Gateway Ct.,,Pingree,83262,ID,United States of America,-112.6106495,43.15915075
+437,6354 Powell Street,,Grady,73569,OK,United States of America,-97.93737075,33.90632175
+438,2437 Wallstreet Ave.,Unit #975,Drew,38737,MS,United States of America,-90.55102875,33.8643355
+439,7640 Airplane Court,Unit #757,Delta,17314,PA,United States of America,-76.33115375,39.7658015
+440,1721 Southern Abby Ct.,,Pentagon,20301,DC,United States of America,-77.051174,38.87562975
+441,6253 Old Port Ct.,,Dolan Springs,86441,AZ,United States of America,-114.5823603,35.869673
+442,1102 Millstreet St.,Unit #622,Altura,55910,MN,United States of America,-92.0044095,44.14661175
+443,6546 Libertas Ave.,,Chefornak,99561,AK,United States of America,-164.2117123,60.165092
+444,5917 Eaton Rd.,,Nogales,85621,AZ,United States of America,-110.8462953,31.44157625
+445,1981 E Ave.,Unit #591,Homer,61849,IL,United States of America,-87.98586675,40.019352
+446,4643 Quarry Street,,Frierson,71027,LA,United States of America,-93.6615165,32.2448675
+447,6594 Central Sq.,,Whitehouse,75791,TX,United States of America,-95.22495375,32.215031
+448,483 Dean Ln.,Unit #127,Wilmington,5363,VT,United States of America,-72.89449975,42.874748
+449,1951 French Ave.,,Lowndesville,29659,SC,United States of America,-82.628921,34.2244185
+450,6433 Airplane Lane,,Stella,28582,NC,United States of America,-77.1224865,34.7658745
+451,2863 Ocean Court,,Kearney,68847,NE,United States of America,-99.03227025,40.75139
+452,7923 Water-lily Ave.,Ste. #756,Solon,4979,ME,United States of America,-69.8097545,44.980445
+453,8658 SE Sq.,Suite #318,Eaton,80615,CO,United States of America,-104.6881673,40.5293405
+454,309 Vienna Rd.,,Superior,68978,NE,United States of America,-98.14010625,40.075046
+455,9212 Prague Sq.,,Coventry,2816,RI,United States of America,-71.62167475,41.6932195
+456,4760 New Orleans Ln.,,Kinzua,97830,OR,United States of America,-120.1073885,44.92272025
+457,5828 Silver Ct.,Apt. #937,Kwigillingok,99622,AK,United States of America,-162.9563458,59.88970625
+458,4772 Hurbanova Sq.,,Cohutta,30710,GA,United States of America,-84.91975725,34.93904525
+459,2295 China Street,,Hotevilla,86030,AZ,United States of America,-110.540544,36.21240925
+460,8439 Maple Rd.,Apt. #321,Mascot,37806,TN,United States of America,-83.73481075,36.0906925
+461,1374 Rome Lane,,Logansport,46947,IN,United States of America,-86.3709655,40.747447
+462,9883 Impressionist Square,Suite #709,Gunnison,84634,UT,United States of America,-111.8499125,39.1786065
+463,7451 New Orleans Sq.,,Penrose,81240,CO,United States of America,-105.058542,38.4488515
+464,7329 Rome Sq.,,Washington,20008,DC,United States of America,-77.059471,38.93447
+465,3266 Quarry Ave.,,Hutsonville,62433,IL,United States of America,-87.67874825,39.1138855
+466,9809 Auerbach St.,,Bolivia,62545,IL,United States of America,-89.3964265,39.7656845
+467,8016 Gold Square,Apt. #502,Ashland,3217,NH,United States of America,-71.6018175,43.7133115
+468,3682 Danish Ln.,,Medway,45341,OH,United States of America,-84.01370475,39.87968925
+469,1183 Silver Ave.,Ste. #491,Kapaa,96746,HI,United States of America,-159.3855753,22.116105
+470,7464 Page Square,,Bouckville,13310,NY,United States of America,-75.5745865,42.89791875
+471,3140 Walton Lane,,Longview,75601,TX,United States of America,-94.716515,32.510549
+472,5579 Airport Avenue,Apt. #723,Milton,19968,DE,United States of America,-75.2971025,38.76407675
+473,9850 Forest Sq.,,Garden City,83714,ID,United States of America,-116.2717563,43.64545475
+474,4265 Eppink Ct.,,Shawnee,82229,WY,United States of America,-105.085535,42.87681475
+475,8391 Arthur Street,,Yorkville,13495,NY,United States of America,-75.274368,43.108951
+476,7309 Jamal Hustróva Road,,Savage,20763,MD,United States of America,-76.8122315,39.13550575
+477,6057 Swit Street,Apt. #573,Golconda,89414,NV,United States of America,-117.3320018,40.97810425
+478,7680 Camp Ln.,,Aztec,87410,NM,United States of America,-107.9660428,36.85893125
+479,9566 Hazlett Ln.,Apt. #674,Summit,39666,MS,United States of America,-90.4587655,31.277834
+480,5502 Powell Avenue,Apt. #564,Hawaiian Gardens,90716,CA,United States of America,-118.072916,33.829037
+481,1430 Ida St.,,Wendell,83355,ID,United States of America,-114.7304233,42.7477595
+482,1093 Page Ave.,,Hartly,19953,DE,United States of America,-75.687893,39.15081325
+483,7567 Dock Ct.,,Pollock,83547,ID,United States of America,-116.339994,45.2993125
+484,4007 Ida Ln.,,Amherst,3031,NH,United States of America,-71.611481,42.86712375
+485,7271 Poet's Road,,Sadieville,40370,KY,United States of America,-84.53314475,38.39031875
+486,6254 Federation Road,,Tumtum,99034,WA,United States of America,-117.6988085,47.8975835
+487,1042 Chris Eaton Ln.,,Lewisville,27023,NC,United States of America,-80.43585475,36.09765775
+488,9369 Princess Sq.,,Bradley,73011,OK,United States of America,-97.72521275,34.87097175
+489,4614 Galghard Street,,Bigfork,56628,MN,United States of America,-93.61951675,47.72243275
+490,6491 Old Wharf Sq.,,Havensville,66432,KS,United States of America,-96.075309,39.47422075
+491,9120 Tunnel Ct.,#360,Happy,79042,TX,United States of America,-101.7576363,34.69813675
+492,9412 Hurbanova Ave.,Unit #567,Pentagon,20301,DC,United States of America,-77.051174,38.87562975
+493,3449 Old Port Sq.,,Newton,31770,GA,United States of America,-84.43294925,31.2786725
+494,9965 William Ln.,,Bluffton,56518,MN,United States of America,-95.21917075,46.49754
+495,8964 Airport Sq.,Apt. #279,Cecilton,21913,MD,United States of America,-75.8672085,39.4037645
+496,1094 China Square,,Exeter,62621,IL,United States of America,-90.514405,39.7427775
+497,2245 Hurbadome Ct.,,Greenville,19807,DE,United States of America,-75.6121505,39.792628
+498,6581 Hurbanova Ln.,,Apopka,32712,FL,United States of America,-81.50887275,28.72664
+499,3146 Kings Avenue,Apt. #577,Archdale,27263,NC,United States of America,-79.94991175,35.90885575
+500,1587 Cavour St.,,Myton,84052,UT,United States of America,-110.051035,40.073815
+501,3418 Hazlett Street,,Kaumakani,96747,HI,United States of America,-159.62359,21.91910225
+502,7587 Oceana Side-street Lane,,Forest,39074,MS,United States of America,-89.4677515,32.38668525
+503,2915 Square Avenue,,Gardiner,59030,MT,United States of America,-110.3659275,45.116713
+504,7420 Paul Hladovka Lane,,Delmar,19940,DE,United States of America,-75.5667865,38.490764
+505,4229 People's Avenue,,Linden,7036,NJ,United States of America,-74.25136775,40.6272495
+506,3304 Forest Street,,Huntington,84528,UT,United States of America,-110.8545185,39.36713625
+507,432 Mill Place Road,,Aransas Pass,78336,TX,United States of America,-97.16517425,27.928671
+508,5423 Barn Court,,Esperance,12066,NY,United States of America,-74.31317675,42.783773
+509,2481 Glider Square,,Block Island,2807,RI,United States of America,-71.57076975,41.184236
+510,8076 Theater Road,Apt. #545,Round Mountain,89045,NV,United States of America,-117.1510455,38.80852225
+511,5865 Pine Square,,Twin Groves,72039,AR,United States of America,-92.42223975,35.3054285
+512,2447 Sycamore Drive Lane,,Jiggs,89801,NV,United States of America,-115.8495323,41.08974
+513,8237 Page Court,Ste. #128,Chamisal,87521,NM,United States of America,-105.4993383,36.16558225
+514,5955 New Orleans Ln.,,Harrisville,2830,RI,United States of America,-71.64902875,41.97374875
+515,131 Costume Avenue,,Lutz,33549,FL,United States of America,-82.4599305,28.15316325
+516,1937 China Ave.,,Swissvale,15218,PA,United States of America,-79.889571,40.4249345
+517,8960 McCrooke Sq.,,Mekoryuk,99630,AK,United States of America,-166.430229,60.1531095
+518,1559 Easy Court,Ste. #522,Decherd,37324,TN,United States of America,-85.99715725,35.24791375
+519,1756 Lucy Street,Unit #640,Raven,41844,KY,United States of America,-82.83176425,37.3685845
+520,725 Powell Court,,Ladson,29456,SC,United States of America,-80.11850325,32.9856555
+521,7881 Airplane Street,,Arundel,4005,ME,United States of America,-70.48839425,43.48422975
+522,6639 Robson Rd.,Suite #724,Clinton,39056,MS,United States of America,-90.3424575,32.3734145
+523,6611 Newport Rd.,,Lowell,5847,VT,United States of America,-72.45149025,44.7864695
+524,7426 Beechwood Court,,Creston,28615,NC,United States of America,-81.64634075,36.46588975
+525,9074 Heritage Rd.,,Castleford,83321,ID,United States of America,-114.8892168,42.45481475
+526,2157 Beatles Square,,Olanta,29114,SC,United States of America,-79.929608,33.9475785
+527,388 Water Rd.,,Warne,28909,NC,United States of America,-83.88975925,35.0053695
+528,456 Leatherwood Square,,Manawa,51501,IA,United States of America,-95.87855825,41.23776425
+529,5901 East Ct.,,Madison,3849,NH,United States of America,-71.10783575,43.90707675
+530,5374 Galvin Ct.,Apt. #654,North Haverhill,3774,NH,United States of America,-72.00218975,44.0907865
+531,708 Law Street,Unit #228,Univ Of The Paci,95211,CA,United States of America,-121.3122208,37.97999575
+532,4885 Glider Avenue,,Central Falls,2863,RI,United States of America,-71.39367125,41.8899385
+533,1899 Eastern Cesta Square,Unit #327,Millers Creek,28651,NC,United States of America,-81.273412,36.2549645
+534,3351 McCrooke Ct.,Apt. #973,Casco,54205,WI,United States of America,-87.6193585,44.592466
+535,7840 Abby Park Road,,Horton,49246,MI,United States of America,-84.5108215,42.115801
+536,5317 E Road,,Pittsfield,62363,IL,United States of America,-90.7641095,39.5831875
+537,8830 Costume Road,,Elberfeld,47613,IN,United States of America,-87.4106095,38.205513
+538,3021 Beatles Road,,Antrim,3440,NH,United States of America,-71.96896275,43.05991225
+539,5674 Railway Ln.,,Baton Rouge,70814,LA,United States of America,-91.073688,30.48762425
+540,5218 Galghard Lane,,Hollister,73551,OK,United States of America,-98.88669675,34.36027675
+541,8316 Prachstreet Rd.,,Warner,74469,OK,United States of America,-95.2955035,35.49727075
+542,3540 Copper Ln.,,Silverhill,36576,AL,United States of America,-87.75882575,30.520344
+543,8035 Auburn Ln.,Apt. #975,Dover Afb,19902,DE,United States of America,-75.471601,39.1188495
+544,7308 Ocean Rd.,,Williamston,29697,SC,United States of America,-82.53676325,34.627475
+545,3602 Highway Ave.,Suite #448,Mingo,50168,IA,United States of America,-93.27406725,41.801063
+546,5800 Farmer's Street,,Smyrna,29743,SC,United States of America,-81.40346225,35.02914525
+547,4133 Beechwood Road,,Sterling,99672,AK,United States of America,-150.805386,60.5191085
+548,1037 Old Wharf Sq.,,Woodland Hills,84653,UT,United States of America,-111.6464165,40.014553
+549,5335 Blavatnik St.,,Valrico,33594,FL,United States of America,-82.23419625,27.910314
+550,8901 Medieval St.,,Anton,80801,CO,United States of America,-103.027082,39.68464375
+551,4956 School Sq.,,Beachwood,8722,NJ,United States of America,-74.199088,39.9288375
+552,2354 McCrooke St.,,Shuqualak,39361,MS,United States of America,-88.54772825,32.97326325
+553,6259 Beechwood Avenue,,Laurel,50141,IA,United States of America,-92.91718,41.90013675
+554,584 Blavatnik Court,,Brownville,4414,ME,United States of America,-69.020977,45.3549075
+555,5093 NW Court,,Alcova,82620,WY,United States of America,-106.702347,42.54315225
+556,3891 Southern Abby Lane,,Lacarne,43439,OH,United States of America,-83.022876,41.5199365
+557,4441 Empire Court,,Bowen,62316,IL,United States of America,-91.055473,40.23745625
+558,837 SW Sq.,,Salem,57058,SD,United States of America,-97.3714165,43.7547515
+559,2374 Otto Avenue,,Bernice,74331,OK,United States of America,-94.8921385,36.62601675
+560,7917 Dean St.,Apt. #263,Rose Hill,67133,KS,United States of America,-97.09670225,37.5778145
+561,613 Airport Street,,Sebastian,78594,TX,United States of America,-97.7328075,26.3489045
+562,2605 West Avenue,,Mc Leod,59052,MT,United States of America,-110.04251,45.483933
+563,5707 Otto Road,,Newdale,83436,ID,United States of America,-111.5922738,43.903555
+564,4365 Airplane Ln.,,Ashland,68003,NE,United States of America,-96.397064,41.074249
+565,509 New Orleans Ave.,,West Greenwich,2817,RI,United States of America,-71.66183775,41.631937
+566,3240 Jameson's Crossing Court,,Monahans,79756,TX,United States of America,-102.9561323,31.5266595
+567,3341 Southern Street,,Hickory,39332,MS,United States of America,-89.01867625,32.31726025
+568,8126 Andreas Ave.,Apt. #536,Dewey Beach,19971,DE,United States of America,-75.08279775,38.69378175
+569,1936 Square Ct.,,Vaughn,88353,NM,United States of America,-105.1249478,34.6577775
+570,1550 Costume Square,Apt. #324,Vauxhall,7088,NJ,United States of America,-74.28517425,40.71850675
+571,5746 Newport Road,,Bally,19503,PA,United States of America,-75.5878535,40.39905475
+572,3550 Long Sq.,,Elon College,27244,NC,United States of America,-79.50993675,36.1852255
+573,9108 Airport Rd.,,Clayton,54004,WI,United States of America,-92.1275055,45.2977905
+574,1298 Water-lily Sq.,,Colonia,7067,NJ,United States of America,-74.31503975,40.5923225
+575,1958 Otto Court,,Pep,88126,NM,United States of America,-103.3682248,33.8117855
+576,5860 New Orleans St.,,Newington,3801,NH,United States of America,-70.79532875,43.06734
+577,8134 Silver Lane,,Toronto,52343,IA,United States of America,-90.793889,41.89709
+578,7764 McCrooke Lane,,Pentagon,20301,DC,United States of America,-77.051174,38.87562975
+579,6064 Stone Street,,New Bedford,2745,MA,United States of America,-70.9500845,41.702134
+580,9239 River Side Square,,Sand Ridge,25274,WV,United States of America,-81.032372,38.850721
+581,2973 NW Ave.,,Midway,84049,UT,United States of America,-111.5207045,40.4941735
+582,304 Andreas Lane,Apt. #249,Clinton,29325,SC,United States of America,-81.831771,34.477436
+583,5688 NE Court,,Mapleton,66754,KS,United States of America,-94.8771085,38.00107925
+584,8622 Danish Road,,Lancaster,40444,KY,United States of America,-84.587336,37.67159925
+585,2468 Vienna Sq.,,Watts,74964,OK,United States of America,-94.6619025,36.11208625
+586,4643 Pažkoliť Úskalie Ln.,,Bloomingrose,25024,WV,United States of America,-81.6241805,38.152514
+587,9170 Delta Ct.,,Windham,44288,OH,United States of America,-81.0381555,41.2458995
+588,624 River Side Ln.,,West Suffield,6093,CT,United States of America,-72.73031525,41.99878225
+589,7978 Elgin Ave.,,Blanchard,73010,OK,United States of America,-97.625776,35.11185
+590,6883 Law Avenue,#602,Lake Kiowa,76240,TX,United States of America,-97.13386275,33.69700025
+591,5915 Paul Hladovka Street,Apt. #435,North Canton,6059,CT,United States of America,-72.9119055,41.9274325
+592,2538 Dean Ave.,,Royal,71968,AR,United States of America,-93.28337625,34.5214765
+593,391 Hurricane Ave.,Apt. #105,Waynesburg,40489,KY,United States of America,-84.6706145,37.35963025
+594,8751 Bay Road,,Herscher,60941,IL,United States of America,-88.0794965,41.026839
+595,9603 Sycamore Drive Ct.,Unit #757,Bloomville,44818,OH,United States of America,-82.98936475,41.00545075
+596,4121 Subway Road,,Vassar,48768,MI,United States of America,-83.56669275,43.36808225
+597,1225 Empire Lane,,Acton,59002,MT,United States of America,-108.6456148,45.9147025
+598,916 Monorail Lane,,Ulysses,67880,KS,United States of America,-101.3185423,37.56636925
+599,205 Hot-air Ballon Ave.,Apt. #281,Campo,91906,CA,United States of America,-116.500512,32.691976
+600,7231 Airport Sq.,,Reelsville,46171,IN,United States of America,-86.95680575,39.54047375
+601,6768 Vlackstreet Rd.,,Cleveland,26215,WV,United States of America,-80.3464055,38.83696
+602,1495 Belby Avenue,,Lawrence,49064,MI,United States of America,-86.062056,42.2130245
+603,6729 Overbanken Ave.,Suite #911,Bolivar,44612,OH,United States of America,-81.4569175,40.6304485
+604,1485 Blavatnik Avenue,,Thorn Hill,37881,TN,United States of America,-83.351897,36.3955825
+605,8465 Pine Lane,,Villard,56385,MN,United States of America,-95.2251265,45.72534325
+606,4777 Plaza Avenue,,Blacklick,43004,OH,United States of America,-82.8060285,40.0154755
+607,8699 Pine Court,,Tohatchi,87325,NM,United States of America,-108.6650165,35.8150265
+608,3749 Rail Street,,Napakiak,99634,AK,United States of America,-161.7412798,60.673793
+609,5706 Wallstreet Street,,Metamora,48455,MI,United States of America,-83.30559325,42.94277075
+610,6166 Mitch Cromwood Sq.,,Farmingdale,4344,ME,United States of America,-69.8088915,44.25380825
+611,7443 Arthur St.,,Stowe,5672,VT,United States of America,-72.710165,44.47808975
+612,9423 NE Lane,Ste. #629,Camden,4843,ME,United States of America,-69.086915,44.22250725
+613,2908 Flower Street,Suite #524,Ware,1082,MA,United States of America,-72.2771055,42.27916875
+614,8619 Hurbanova Ct.,,Colbert,99005,WA,United States of America,-117.3693888,47.846616
+615,8025 Water Square,,Greenville,45331,OH,United States of America,-84.6464305,40.07616075
+616,1018 Robson Road,,Palm Beach Garde,33418,FL,United States of America,-80.17574575,26.85037925
+617,2767 Shopping Sq.,Apt. #521,Irvington,36544,AL,United States of America,-88.2308165,30.47814775
+618,5711 Lucy Square,,Middletown,2840,RI,United States of America,-71.30627225,41.49014625
+619,4304 Princess Road,Apt. #687,Sebago Lake,4075,ME,United States of America,-70.6189985,43.82095975
+620,1657 Galvin Rd.,,Ethel,98542,WA,United States of America,-122.729734,46.52907875
+621,748 Southern Millstreet Ct.,,Bancroft,68004,NE,United States of America,-96.6575425,42.01435375
+622,6028 Costume Rd.,,Lumberville,18933,PA,United States of America,-75.03510425,40.3831555
+623,6522 Blavatnik Ave.,,Washington,20024,DC,United States of America,-77.021116,38.8729015
+624,3664 Square Ave.,,Centerville,84014,UT,United States of America,-111.8821558,40.933045
+625,232 Airport Road,,Converse,46919,IN,United States of America,-85.86674025,40.5684825
+626,5343 Queen Mary Elisabeth Alley Lane,,Vermillion,57069,SD,United States of America,-96.9686105,42.82691725
+627,351 Copper Lane,Suite #855,Buford,82052,WY,United States of America,-105.4475638,41.148856
+628,9611 Airplane Ct.,,Fairview,59221,MT,United States of America,-104.5216403,47.94951525
+629,6912 Shall Road,,Mathews,70375,LA,United States of America,-90.49818025,29.6798775
+630,4783 NE Street,,Pequannock,7440,NJ,United States of America,-74.296766,40.94726075
+631,3798 Eaton Sq.,,Pinopolis,29469,SC,United States of America,-80.0729965,33.2180815
+632,3363 Hospital Avenue,,College Plaza,34207,FL,United States of America,-82.579694,27.438136
+633,6401 Old Port Avenue,#853,Spearsville,71277,LA,United States of America,-92.57406425,32.93097025
+634,6652 Elgin Court,,Prewitt,87045,NM,United States of America,-108.1045045,35.348282
+635,1085 Maple Street,Ste. #354,Wilson,27893,NC,United States of America,-77.92248625,35.68992475
+636,1390 Marine Court,,Social Circle,30279,GA,United States of America,-83.706149,33.656386
+637,7334 Maple Ct.,,Okawville,62271,IL,United States of America,-89.509386,38.43022325
+638,3621 State Ln.,Suite #458,Wakefield,23888,VA,United States of America,-76.9712175,36.96119525
+639,6911 Poet's Ln.,,Middleton,83644,ID,United States of America,-116.5915655,43.73804275
+640,8967 Prachstreet Sq.,Suite #735,Malad City,83252,ID,United States of America,-112.404569,42.2326035
+641,7940 Highway Sq.,,Columbia Falls,59912,MT,United States of America,-114.17903,48.371532
+642,9711 Highway Ave.,,Annada,63330,MO,United States of America,-90.80984275,39.259112
+643,1686 Katrina Ln.,,Helper,84526,UT,United States of America,-110.8099455,39.67675825
+644,7769 Sylvania Street,,Schuyler,68661,NE,United States of America,-97.07519575,41.4710035
+645,4772 Dubnitz Road,,Otego,13825,NY,United States of America,-75.23855275,42.42410525
+646,7112 Robson Road,,Lowell,49331,MI,United States of America,-85.35051725,42.9621745
+647,5723 Delaware Ave.,#413,Edgefield,29824,SC,United States of America,-82.00027025,33.80522
+648,612 Marine Court,Apt. #189,Carpio,58725,ND,United States of America,-101.7121635,48.42007175
+649,7516 Shall Lane,,Arlington,5250,VT,United States of America,-73.2338225,43.1938445
+650,6425 Eaton Ave.,,Allen,68710,NE,United States of America,-96.8878185,42.43949325
+651,1016 Bay Ct.,,Rush Springs,73082,OK,United States of America,-97.8946945,34.76879625
+652,3013 Newhaven Street,,Argyle,65001,MO,United States of America,-92.01236225,38.29824475
+653,7411 Railway Street,Apt. #857,Washington,20010,DC,United States of America,-77.0307505,38.93306575
+654,6103 Airport Lane,,Malta,43758,OH,United States of America,-81.9212915,39.636821
+655,7290 Francis II Ave.,,Zia Pueblo,87053,NM,United States of America,-106.7502418,35.545067
+656,6184 Andreas Street,,Columbia Falls,59912,MT,United States of America,-114.17903,48.371532
+657,2209 Jamal Hustróva Road,,Kansas,74347,OK,United States of America,-94.81419625,36.2328585
+658,663 Poet's Sq.,Suite #929,Hamburg,71339,LA,United States of America,-91.92714425,31.03691725
+659,9000 Central Cesta St.,,Tequesta,33469,FL,United States of America,-80.10442775,26.98399325
+660,5499 Auerbach Sq.,Apt. #250,Andalusia,36420,AL,United States of America,-86.44219725,31.241909
+661,8361 Airport Lane,,Glasgow,65254,MO,United States of America,-92.82558325,39.21979525
+662,3385 Mayores Square,,Branchdale,17923,PA,United States of America,-76.331327,40.6543725
+663,8943 W Ave.,,Flora,46929,IN,United States of America,-86.4774145,40.543618
+664,2123 Leatherwood St.,,Bingham,87815,NM,United States of America,-106.021163,34.043864
+665,8455 River Side St.,,Mantua,84324,UT,United States of America,-111.9453983,41.48702
+666,3776 River Side St.,,Flagler Beach,32136,FL,United States of America,-81.138547,29.46887675
+667,1331 Mitch Cromwood Court,,Petal,39465,MS,United States of America,-89.19187675,31.331395
+668,4530 N Sq.,,Morrisville,22712,VA,United States of America,-77.7610805,38.5582355
+669,8440 Sycamore Drive Lane,Unit #125,Merom,47861,IN,United States of America,-87.5477165,39.05153175
+670,8991 Ocean Ln.,,Shageluk,99665,AK,United States of America,-159.6845095,62.6134265
+671,7990 Woodstock Ct.,,Woden,50484,IA,United States of America,-93.91115,43.23104125
+672,3236 Ida Ct.,,Sturgis,39769,MS,United States of America,-89.042041,33.338837
+673,9984 Cresson Crescent Street,Apt. #238,Boonesville,22935,VA,United States of America,-78.5651285,38.2547805
+674,7016 Dock Lane,,Brookfield,6804,CT,United States of America,-73.389817,41.466945
+675,7504 Newport Ln.,Unit #674,Silt,81652,CO,United States of America,-107.6836918,39.51150975
+676,6374 Kings Rd.,,Chickasaw,36611,AL,United States of America,-88.0806125,30.7728705
+677,4003 Airport Rd.,,Veradale,99037,WA,United States of America,-117.1989083,47.63377125
+678,655 P. Auerbach Street,Unit #886,Liverpool,17045,PA,United States of America,-77.008276,40.570175
+679,2845 Dimitri Square,Unit #387,Wilmington,19806,DE,United States of America,-75.56314825,39.75780425
+680,6814 Wallstreet Ln.,,Brookings,57006,SD,United States of America,-96.81146,44.34262475
+681,2869 Mill Place Avenue,,Rison,20658,MD,United States of America,-77.158219,38.56514775
+682,221 Abby Park Lane,Apt. #403,Potts Camp,38659,MS,United States of America,-89.34308925,34.598865
+683,9534 Hospital St.,Suite #728,Bedford,83112,WY,United States of America,-110.9392438,42.9574805
+684,3662 Andreas Avenue,,Morrisville,5661,VT,United States of America,-72.63479775,44.54459925
+685,3471 SE Rd.,,Monroe,3771,NH,United States of America,-72.0048395,44.27450325
+686,6425 Temmar Eastwood Road,Apt. #447,Willard,59354,MT,United States of America,-104.4627593,46.11704375
+687,8586 Federation Ln.,Apt. #357,Guymon,73942,OK,United States of America,-101.4112408,36.7349185
+688,6576 Farmer's Lane,Ste. #985,Scobey,38953,MS,United States of America,-89.860161,33.9321945
+689,5576 Innovation Lane,,Lonaconing,21539,MD,United States of America,-79.00575025,39.5926785
+690,9704 Constitution Avenue,,Mountainside,7092,NJ,United States of America,-74.359328,40.6817055
+691,2943 Prachstreet Square,Suite #112,Wellsburg,26070,WV,United States of America,-80.59774025,40.24133925
+692,9366 Maple Road,,Blandford,1008,MA,United States of America,-72.95122875,42.1852785
+693,8292 Airplane Court,,Augusta,62311,IL,United States of America,-90.96508875,40.237562
+694,1634 Freedom Sq.,,Big Sandy,59520,MT,United States of America,-110.1026903,48.0412255
+695,1018 New Rd.,,Monticello,84535,UT,United States of America,-109.485713,37.92782
+696,2630 Poet's Avenue,,Buffalo,25033,WV,United States of America,-81.9197055,38.60566775
+697,2840 Constitution Ave.,,Shady Cove,97539,OR,United States of America,-122.772063,42.59995125
+698,6794 School St.,,Tivoli,12583,NY,United States of America,-73.874497,42.05606475
+699,1850 Mandarin Park Lane,,Dover Afb,19902,DE,United States of America,-75.471601,39.1188495
+700,5537 Francis II St.,,Pentagon,20301,DC,United States of America,-77.051174,38.87562975
+701,1329 Sycamore Drive Square,,Illiopolis,62539,IL,United States of America,-89.2575545,39.850571
+702,6881 Southern Ln.,,Danville,5828,VT,United States of America,-72.11703975,44.43753625
+703,4532 Subway Rd.,,Mercersburg,17236,PA,United States of America,-77.93917675,39.82721475
+704,3314 Marine Ln.,,Kihei,96753,HI,United States of America,-156.4375635,20.743893
+705,3435 Forest Ave.,,Kindred,58051,ND,United States of America,-97.040172,46.641885
+706,3371 Heritage Ct.,,Richmond,3470,NH,United States of America,-72.3281295,42.781431
+707,7934 Auerbach Street,Suite #122,Pentagon,20301,DC,United States of America,-77.051174,38.87562975
+708,997 Arthur Ln.,,Winston,30187,GA,United States of America,-84.8468,33.65787425
+709,622 Central Cesta St.,,Detroit,97342,OR,United States of America,-122.1210043,44.7879305
+710,4297 Sobrance Lane,,Westview,40178,KY,United States of America,-86.4270475,37.67798775
+711,3090 Stone Street,Apt. #528,West Baden Sprin,47469,IN,United States of America,-86.6026585,38.6111735
+712,8653 Camp Court,Unit #940,Strafford,3884,NH,United States of America,-71.1660555,43.25931175
+713,2076 Silver Road,,Erath,70533,LA,United States of America,-92.056175,29.892861
+714,8843 Central St.,Unit #912,Merigold,38759,MS,United States of America,-90.67892625,33.82739475
+715,4816 Storm Alley Road,,Pascoag,2859,RI,United States of America,-71.72030675,41.96878125
+716,3195 River St.,,Maunaloa,96770,HI,United States of America,-157.2125255,21.1523675
+717,3960 Jamal Hustróva Court,Suite #636,Garrison,84728,UT,United States of America,-113.5339085,39.065682
+718,4813 Dubnitz Square,,Vermontville,49096,MI,United States of America,-85.0062425,42.63974625
+719,6514 Chris Eaton St.,,Valliant,74764,OK,United States of America,-95.0513225,33.98985975
+720,5677 Walden Alley Ln.,,Winston,59647,MT,United States of America,-111.6457818,46.4091635
+721,8949 Tunnel Avenue,Ste. #713,Nashoba,74558,OK,United States of America,-95.189344,34.5231505
+722,3849 Abby Park Ct.,,Rosedale,11422,NY,United States of America,-73.73755325,40.6619595
+723,3091 Beach Sq.,,Lawton,49065,MI,United States of America,-85.8389725,42.13974625
+724,9421 Venice Lane,,Bethpage,37022,TN,United States of America,-86.30089575,36.50777275
+725,9307 Quarry Ln.,,Etna,83118,WY,United States of America,-110.919057,43.173694
+726,4903 Oceana Side-street Rd.,,Gadsden,38337,TN,United States of America,-88.989335,35.779075
+727,6621 Camp Street,,Muncie,47305,IN,United States of America,-85.3861945,40.19494825
+728,7701 Ida Ave.,Apt. #776,Monhegan,4852,ME,United States of America,-69.3129805,43.7642145
+729,1834 SE Square,,Auberry,93602,CA,United States of America,-119.4272875,37.077816
+730,8739 Mill Place Rd.,,Hamden,6514,CT,United States of America,-72.9384265,41.37235875
+731,4988 Andreas St.,Apt. #717,Lowndes,63951,MO,United States of America,-90.25851775,37.13642625
+732,3735 New Orleans Street,,Keshena,54135,WI,United States of America,-88.66119575,44.96854725
+733,9955 Plaza Court,,Hardwood,49807,MI,United States of America,-87.2774865,45.72225675
+734,9040 Prachstreet Rd.,Apt. #490,Crestline,66728,KS,United States of America,-94.70473575,37.165432
+735,7137 Forest Rd.,Suite #818,Conchas Dam,88416,NM,United States of America,-104.0480565,35.3449865
+736,7278 Vlackstreet Square,,Freeland,21053,MD,United States of America,-76.720921,39.68637975
+737,7579 Dock Rd.,,Snow Shoe,16874,PA,United States of America,-77.97096625,41.00897
+738,3671 Subway Ct.,,Talkeetna,99676,AK,United States of America,-149.8825253,62.16182425
+739,9123 Federation Rd.,,Coalgate,74538,OK,United States of America,-96.22223625,34.57832725
+740,6443 Queen Mary Elisabeth Alley Lane,,Donaldsonville,70346,LA,United States of America,-90.94967975,30.11874975
+741,5103 Oakwood Avenue,,Mead,99021,WA,United States of America,-117.25969,47.81840875
+742,6502 Old Wharf Sq.,,Candia,3034,NH,United States of America,-71.30927975,43.05895875
+743,941 Robson Court,,Britton,57430,SD,United States of America,-97.785446,45.8046035
+744,3595 Gateway Ave.,Ste. #736,Boyds,20841,MD,United States of America,-77.3139545,39.1930425
+745,4400 Western Cesta Ln.,Unit #348,Epes,35460,AL,United States of America,-88.1688365,32.755916
+746,6897 Empire Ave.,Unit #287,Terry,39170,MS,United States of America,-90.3422405,32.12305
+747,5540 Oceana Side-street Ln.,,Bear Valley,95223,CA,United States of America,-120.2552918,38.31217275
+748,8270 Costume Road,,Bassett,68714,NE,United States of America,-99.5392885,42.5812715
+749,1322 Sylvania Square,,Sugar Valley,30746,GA,United States of America,-85.02750225,34.56926225
+750,5054 Law Ave.,,Hartselle,35640,AL,United States of America,-86.9384505,34.43689825
+751,4081 Hurbanova Square,Suite #245,Washington,20020,DC,United States of America,-76.9739725,38.8612495
+752,5655 Otto Rd.,,Millington,48746,MI,United States of America,-83.55601525,43.267155
+753,2008 New Court,Apt. #105,Mountainair,87036,NM,United States of America,-106.2788468,34.4680645
+754,5190 Square Sq.,,East Haddam,6423,CT,United States of America,-72.39486825,41.474594
+755,8144 Airplane Street,Apt. #361,Pilgrim Gardens,19026,PA,United States of America,-75.305606,39.94910025
+756,8389 Heritage Road,Unit #698,Quincy,95971,CA,United States of America,-120.942779,39.95264575
+757,1126 Stone Lane,#671,Snowville,84336,UT,United States of America,-112.5801228,41.8132145
+758,1653 Prague Street,,Tabor,51653,IA,United States of America,-95.6747925,40.87689275
+759,2002 Birchpond Sq.,,Irmo,29063,SC,United States of America,-81.202466,34.1345945
+760,7676 Birchpond Ln.,,Ogden,50212,IA,United States of America,-94.03155175,42.0360435
+761,1064 Hendrix St.,,Prospect,6712,CT,United States of America,-72.97708775,41.49869025
+762,5506 Elisabeth Avenue,Suite #484,Prague,68050,NE,United States of America,-96.84573275,41.30076975
+763,3671 S Street,,Bonesteel,57317,SD,United States of America,-98.96133625,43.08015075
+764,6719 Venice St.,Ste. #177,Talladega,35160,AL,United States of America,-86.0816195,33.385357
+765,2441 Pine Sq.,,Fishtail,59028,MT,United States of America,-109.6916125,45.34900025
+766,4443 Adelaide Square,,Unity,4988,ME,United States of America,-69.346701,44.60369925
+767,6656 Impressionist Ave.,Suite #686,Lafayette,70503,LA,United States of America,-92.0591035,30.1730795
+768,2928 Easy Avenue,Unit #452,Troy,38260,TN,United States of America,-89.19791,36.373588
+769,2538 Subway Ct.,Apt. #905,Danielson,6239,CT,United States of America,-71.86151875,41.79249125
+770,9502 Adelaide Rd.,#541,Rowe,1367,MA,United States of America,-72.91866975,42.69645675
+771,5254 Empire Rd.,Unit #854,Deerfield,24432,VA,United States of America,-79.413113,38.158086
+772,565 Ocean Ct.,,Marlboro,7746,NJ,United States of America,-74.25140225,40.316951
+773,5016 Dock St.,,Glencoe,15538,PA,United States of America,-78.84718325,39.87558625
+774,8216 Pine Road,Suite #296,Canton,6019,CT,United States of America,-72.899301,41.84646725
+775,654 California Street,,Milford,8848,NJ,United States of America,-75.09888825,40.58164175
+776,9412 Airport Ave.,,Blodgett,97326,OR,United States of America,-123.572011,44.630313
+777,9292 Gold Sq.,,Soda Springs,83276,ID,United States of America,-111.3404755,42.72869975
+778,7394 P. Auerbach Ct.,,Lynchburg,37352,TN,United States of America,-86.39936475,35.2484975
+779,7800 NW Road,,Pittsfield,5762,VT,United States of America,-72.881192,43.770173
+780,869 Mandarin Park Ln.,,Rock River,82083,WY,United States of America,-106.0421763,41.6785895
+781,7897 Andreas Rd.,,Old Town,4468,ME,United States of America,-68.71757875,44.9996615
+782,6702 Poet's Court,,Yuma,80759,CO,United States of America,-102.6606928,40.0778585
+783,7928 Millstreet Square,,Pentagon,20301,DC,United States of America,-77.051174,38.87562975
+784,2670 S Sq.,,Washington,27889,NC,United States of America,-77.03948925,35.5965055
+785,1310 Airplane St.,,Zuni,87327,NM,United States of America,-108.7893325,35.11680475
+786,7403 Kings Road,,Pitts,31072,GA,United States of America,-83.54766275,31.93589475
+787,6927 Temmar Eastwood Ave.,,Pleasant View,81331,CO,United States of America,-108.9171615,37.5067685
+788,3986 Glider Sq.,,Guy,72061,AR,United States of America,-92.32938688,35.31852938
+789,8584 Hot-air Ballon Ln.,,Pascoag,2859,RI,United States of America,-71.72030675,41.96878125
+790,403 Adelaide Road,Unit #663,La Plata,87418,NM,United States of America,-108.1565323,36.95554025
+791,1445 Stone Square,,Violet,70092,LA,United States of America,-89.867969,29.911151
+792,6657 NW Ave.,,Saint Davids Chu,22652,VA,United States of America,-78.4307235,38.841282
+793,7094 Jameson's Crossing Sq.,,Shirley,72153,AR,United States of America,-92.29582025,35.5477995
+794,7744 Theater Road,,North Stonington,6359,CT,United States of America,-71.87835225,41.439805
+795,8511 Swamp Square,,Chesapeake City,21915,MD,United States of America,-75.8472815,39.5055065
+796,1811 California St.,Ste. #341,Moyock,27958,NC,United States of America,-76.14812475,36.47227175
+797,2038 Stone Rd.,,Holland,49423,MI,United States of America,-86.0784915,42.74813825
+798,228 Leatherwood Ct.,Ste. #931,West Willington,6279,CT,United States of America,-72.2665295,41.8910255
+799,3413 State Ct.,Apt. #337,Arkville,12406,NY,United States of America,-74.56227325,42.087926
+800,8402 Sycamore Drive Road,,La Grange,78945,TX,United States of America,-96.9238765,29.89444625
+801,3531 Eppink Ave.,,Coden,36523,AL,United States of America,-88.182694,30.3938995
+802,8201 Barn Lane,,Vardaman,38878,MS,United States of America,-89.19826325,33.92926375
+803,4240 South Ct.,,Cos Cob,6807,CT,United States of America,-73.5910665,41.06052475
+804,6388 East Hills Street,Ste. #414,Vinson,73571,OK,United States of America,-99.81973075,34.8911025
+805,9456 Innovation St.,,Rowesville,29133,SC,United States of America,-80.80798175,33.37346175
+806,2357 Theater Ave.,Apt. #351,Pleasanton,68866,NE,United States of America,-99.1304935,40.965192
+807,8837 Impressionist Ln.,,Aleppo,15310,PA,United States of America,-80.459859,39.82239025
+808,3864 Southern Rd.,,Pleasant Valley,6063,CT,United States of America,-72.98244025,41.9365445
+809,5316 Southern Road,Apt. #402,Old Town,83822,ID,United States of America,-116.9557485,48.18364325
+810,9507 Bay Ln.,,Rush Valley,84069,UT,United States of America,-112.6224783,40.236793
+811,6481 Cavour Road,,Carlin,89822,NV,United States of America,-116.1139928,40.6565365
+812,2899 Gateway Avenue,,Felt,73937,OK,United States of America,-102.81655,36.57754825
+813,8204 Jamal Hustróva Avenue,,Port Sulphur,70083,LA,United States of America,-89.77549175,29.48208825
+814,8991 SW Road,,Pine Hills,32808,FL,United States of America,-81.4426825,28.5803895
+815,3942 Lucy Rd.,,Fairchild Air Fo,99011,WA,United States of America,-117.6516728,47.61752375
+816,8577 Airport Ave.,,Trosper,40995,KY,United States of America,-83.8232085,36.77528825
+817,1759 Theater Ct.,,Belva,26656,WV,United States of America,-81.1449035,38.25494675
+818,9515 Sycamore Drive Square,,Westerville,43081,OH,United States of America,-82.902563,40.10932875
+819,4130 Copper Sq.,,Killingworth,6419,CT,United States of America,-72.5799325,41.37491025
+820,9217 William Court,Suite #368,Carl Junction,64834,MO,United States of America,-94.56122475,37.19677475
+821,9799 Vlackstreet Avenue,Unit #625,Roxboro,27573,NC,United States of America,-78.9462405,36.41245775
+822,8121 Theater St.,Unit #737,Cunningham,37052,TN,United States of America,-87.41917375,36.3734555
+823,349 Leatherwood Ln.,,Adams Mills,43821,OH,United States of America,-81.9848035,40.129831
+824,9324 Camp Lane,,Clifton,71455,LA,United States of America,-92.916995,31.34617
+825,3454 Water-lily Ave.,,Cataldo,83810,ID,United States of America,-116.5136658,47.51883225
+826,1504 Hot-air Ballon Ave.,,Freeburn,41528,KY,United States of America,-82.13784075,37.5421895
+827,7296 Arthur Street,,Union,39365,MS,United States of America,-89.09742075,32.54432575
+828,3052 Easy Ln.,,Ashville,35953,AL,United States of America,-86.22357925,33.82258125
+829,4345 Page Court,Apt. #852,Berry Creek,95916,CA,United States of America,-121.3555023,39.68752875
+830,6630 Camp Avenue,,Fort Hood,76544,TX,United States of America,-97.73567825,31.2127625
+831,8265 Sobrance Road,Suite #976,Lee,3824,NH,United States of America,-70.9592585,43.128214
+832,2977 Glider Rd.,Apt. #328,Westborough,1581,MA,United States of America,-71.611109,42.26636175
+833,8980 Western Cesta Lane,Suite #281,Atlanta,49709,MI,United States of America,-84.13584175,44.9932035
+834,8547 Bay Court,,Canton,57013,SD,United States of America,-96.61236975,43.30200775
+835,1708 Southern Millstreet Rd.,,Sturgis,39769,MS,United States of America,-89.042041,33.338837
+836,8952 Princess Lane,,Nashville,37216,TN,United States of America,-86.7244525,36.21408175
+837,8294 Dock Square,Ste. #517,Keslers Cross La,26675,WV,United States of America,-80.9372695,38.24240975
+838,5431 Southern Millstreet Rd.,,Parrish,34219,FL,United States of America,-82.33540975,27.5603735
+839,3206 Glider Ln.,Apt. #357,Bradford,3221,NH,United States of America,-71.966763,43.25022125
+840,5635 N Ln.,,Meadow,57644,SD,United States of America,-102.3386523,45.3452475
+841,263 King Arthur I Ave.,Unit #822,Thomasboro,61878,IL,United States of America,-88.1626,40.24132425
+842,1889 Noble City St.,Unit #592,Mason City,50401,IA,United States of America,-93.1775485,43.131212
+843,4404 NE Ln.,Suite #334,Gowen City,17828,PA,United States of America,-76.5169395,40.74640925
+844,7994 River Side Street,,Eleven Mile Corn,85222,AZ,United States of America,-111.8334998,32.78675575
+845,8169 Marine Rd.,,Nederland,80466,CO,United States of America,-105.5074865,39.97797275
+846,6593 Water-lily Rd.,,Elm Grove,53122,WI,United States of America,-88.08729925,43.048216
+847,5294 Plaza Rd.,,Mahaska,66955,KS,United States of America,-97.320936,39.96499525
+848,7182 Monorail Ave.,,Washington,20018,DC,United States of America,-76.9708505,38.929389
+849,2233 Barn Ln.,,Mc Neal,85617,AZ,United States of America,-109.658889,31.5341165
+850,2239 Hurbanova Ln.,Apt. #888,Gorham,67640,KS,United States of America,-99.018528,38.8930205
+851,7669 Overbanken St.,Apt. #896,Conaway,24603,VA,United States of America,-82.2360425,37.32026325
+852,9418 Jamal Hustróva Rd.,,Keedysville,21756,MD,United States of America,-77.70189625,39.450992
+853,5591 Beechwood Road,,Fair Play,29643,SC,United States of America,-82.9808315,34.530286
+854,646 Beach Square,,Claymont,19703,DE,United States of America,-75.45832275,39.802983
+855,9491 Dubnitz Road,,Epworth,30541,GA,United States of America,-84.48314075,34.92729375
+856,5846 Jamal Hustróva St.,,South Kent,6785,CT,United States of America,-73.45719175,41.70691525
+857,7182 Cleveland Ave.,,Easton,66020,KS,United States of America,-95.08616925,39.34130675
+858,6371 Princess Sq.,,Hadley,16130,PA,United States of America,-80.163072,41.43253925
+859,590 Jamal Hustróva Ave.,,Gonzales,78629,TX,United States of America,-97.45955625,29.46899175
+860,2021 Shall Rd.,,Bible Grove,62858,IL,United States of America,-88.524125,38.82186475
+861,6529 Federation Road,,Kentwood,49508,MI,United States of America,-85.626324,42.8691775
+862,2366 Walden Alley Ln.,,Yucca Valley,92284,CA,United States of America,-116.471546,34.154652
+863,910 Galghard Ln.,,Amherst,24521,VA,United States of America,-79.0538975,37.61791625
+864,954 Shopping Lane,Unit #582,North Fryeburg,4058,ME,United States of America,-70.981286,44.132936
+865,5372 William Square,Suite #405,Port Byron,61275,IL,United States of America,-90.29682725,41.594404
+866,3297 River Side Avenue,,Greenacres,93312,CA,United States of America,-119.2123203,35.399149
+867,4538 Western Cesta Ln.,,Steen,56173,MN,United States of America,-96.23532325,43.5408645
+868,6705 Mill Place Road,,Allentown,8501,NJ,United States of America,-74.56267975,40.142272
+869,6985 Prague Rd.,Apt. #530,Havana,58043,ND,United States of America,-97.538545,45.97803525
+870,5032 Noble City Ave.,,Alexander,50420,IA,United States of America,-93.45549775,42.81768375
+871,9992 S Rd.,,College Grove,37046,TN,United States of America,-86.7248845,35.7817305
+872,4792 SE Square,,Johnstown,69214,NE,United States of America,-100.0679713,42.48199075
+873,9352 Northern Abby Rd.,Suite #355,Minden,89423,NV,United States of America,-119.5489083,38.98268875
+874,3170 Francis II Road,,Fort Garland,81133,CO,United States of America,-105.3565835,37.46215225
+875,670 Northern Abby Ct.,,Beech Creek,16822,PA,United States of America,-77.675283,41.1377825
+876,8597 Heritage Rd.,,Plymouth,53073,WI,United States of America,-87.99503375,43.7590735
+877,7343 Walton Ln.,,Itta Bena,38941,MS,United States of America,-90.3604915,33.4183755
+878,8371 Page Road,Apt. #244,Robersonville,27871,NC,United States of America,-77.26157975,35.80984275
+879,7893 Swamp Rd.,,Brockport,14420,NY,United States of America,-77.91991225,43.21099275
+880,3822 NW Square,,Mid Venice,34292,FL,United States of America,-82.3673595,27.097416
+881,5395 Pažkoliť Úskalie Avenue,Unit #996,Huddy,41535,KY,United States of America,-82.26395175,37.59024375
+882,3435 Forest Ave.,,Newark,19711,DE,United States of America,-75.733142,39.7141235
+883,3323 Newhaven Square,,Perrineville,8535,NJ,United States of America,-74.44632475,40.2219865
+884,5470 Prague St.,,Liberty Center,50145,IA,United States of America,-93.50002275,41.206567
+885,2930 Eaton Ave.,,Lynn,35575,AL,United States of America,-87.52731375,34.060619
+886,8983 Pine Street,,Makaweli,96769,HI,United States of America,-160.060613,21.90170025
+887,5725 Railway Road,Unit #127,Hillside,60162,IL,United States of America,-87.90119125,41.866572
+888,340 New Rd.,,Roseland,70456,LA,United States of America,-90.5054055,30.788589
+889,9854 Communal Street,,White Lake,48386,MI,United States of America,-83.4774765,42.6533855
+890,6308 Delta Road,,Belle View,22307,VA,United States of America,-77.06167175,38.7717105
+891,4383 Easy Ave.,,Naknek,99633,AK,United States of America,-156.7096305,58.85766175
+892,1956 Federation Sq.,,Waiteville,24984,WV,United States of America,-80.4600315,37.4660755
+893,7689 Robson Court,#369,Auburn,95603,CA,United States of America,-121.0949145,38.90776775
+894,3646 Lucy Ln.,,Harrison,83833,ID,United States of America,-116.7356415,47.5116055
+895,9862 Flower Ln.,Apt. #189,Aloha,97006,OR,United States of America,-122.8628698,45.5210275
+896,9971 Airport Lane,,Ridgeway,29130,SC,United States of America,-80.8998375,34.33690625
+897,9170 Heritage Square,,Karval,80823,CO,United States of America,-103.453261,38.73409275
+898,9637 N Square,,Tuscarora,89834,NV,United States of America,-116.716593,41.132047
+899,1758 Jameson's Crossing Square,,Darien Center,14040,NY,United States of America,-78.388409,42.8857835
+900,6951 Walton Ct.,,Hillsboro,22132,VA,United States of America,-77.721305,39.150484
+901,2432 Dimitri Road,Ste. #274,Shady Side,20764,MD,United States of America,-76.51099425,38.833503
+902,6618 Libertas Street,,Venturia,58489,ND,United States of America,-99.595608,46.024556
+903,2458 Prachstreet Rd.,,Peculiar,64078,MO,United States of America,-94.4585735,38.7060985
+904,1241 Blavatnik Ave.,Apt. #914,Clinton,52732,IA,United States of America,-90.25387,41.898253
+905,4772 Galghard Ct.,Suite #623,Washington,20036,DC,United States of America,-77.04149475,38.90727225
+906,7350 Cresson Crescent Road,,Hazel,42049,KY,United States of America,-88.3282695,36.53785975
+907,9044 New Orleans Ln.,,Huddleston,24104,VA,United States of America,-79.47939425,37.13493675
+908,6630 Dimitri Court,,Pentagon,20301,DC,United States of America,-77.051174,38.87562975
+909,7392 Prague Ct.,,North Wilkesboro,28659,NC,United States of America,-81.0656945,36.17662475
+910,2065 SE Rd.,,Bridgeland,84012,UT,United States of America,-110.160264,40.230411
+911,2938 Western Cesta Street,,Howard,16841,PA,United States of America,-77.70082375,41.05061425
+912,4537 Southern Road,,West Caldwell,7006,NJ,United States of America,-74.28251525,40.85475975
+913,2039 New Orleans Rd.,,La Center,42056,KY,United States of America,-88.95856825,37.07700925
+914,7685 Oakwood Ct.,,Altamont,12009,NY,United States of America,-74.0304585,42.694762
+915,321 South Avenue,,Wright,82732,WY,United States of America,-105.5551503,43.7383005
+916,7182 Adelaide Ave.,,Washington,20017,DC,United States of America,-76.99377325,38.9358185
+917,5899 Constitution Road,#201,Altonah,84002,UT,United States of America,-110.447901,40.4610595
+918,5025 Sobrance Ave.,,Raritan,8869,NJ,United States of America,-74.6421835,40.569917
+919,8792 Law St.,Unit #387,Pierce,68767,NE,United States of America,-97.538714,42.1816435
+920,3275 Hazlett St.,,Hiko,89017,NV,United States of America,-115.160469,37.70188575
+921,1090 Innovation Lane,,Kenvir,40847,KY,United States of America,-83.1720115,36.79780475
+922,2817 SW Avenue,,Brodheadsville,18322,PA,United States of America,-75.40724025,40.929296
+923,4787 Plaza Court,,Lamberton,15458,PA,United States of America,-79.860075,39.8876095
+924,5659 Hillcrest Rd.,,Bosworth,64623,MO,United States of America,-93.3243905,39.48341575
+925,3757 Barn Ln.,,Midway,37809,TN,United States of America,-83.03006625,36.15703325
+926,1604 Pažkoliť Úskalie Court,,Hauula,96717,HI,United States of America,-157.9108635,21.58054575
+927,3364 Belby Court,,Fort Dix,8640,NJ,United States of America,-74.61563125,40.008164
+928,9470 Auerbach Square,,Pinetops,27864,NC,United States of America,-77.68674025,35.811049
+929,2543 Venice Road,,Montrose,10548,NY,United States of America,-73.9420355,41.24914325
+930,8397 Beatles Ct.,,Lenore,83541,ID,United States of America,-116.4031393,46.57205
+931,1357 McCrooke Lane,,Gerlach,89412,NV,United States of America,-119.5854093,41.08979625
+932,2923 Ida Ct.,Ste. #126,Pentagon,20301,DC,United States of America,-77.051174,38.87562975
+933,3012 Libertas Street,,Hatfield,56164,MN,United States of America,-96.31611325,44.084933
+934,6803 Bus Square,,Gantt,36038,AL,United States of America,-86.412468,31.43172
+935,139 W Sq.,Apt. #547,Marshall,62441,IL,United States of America,-87.71127125,39.42085
+936,1806 Federation Lane,Ste. #488,Dryden,13053,NY,United States of America,-76.2739385,42.48078775
+937,7679 Railway Ct.,,Wellton,85356,AZ,United States of America,-114.190569,32.836695
+938,6068 Wallstreet St.,,Douglas,85607,AZ,United States of America,-109.4513755,31.4524485
+939,7953 Hospital Square,#929,Stebbins,99671,AK,United States of America,-162.4497383,63.56011825
+940,357 Hospital Lane,Apt. #943,West Paris,4289,ME,United States of America,-70.54394175,44.33708625
+941,4361 Pine Ave.,Apt. #884,Swanton,21561,MD,United States of America,-79.208338,39.482634
+942,4162 China Lane,Unit #592,Mathiston,39752,MS,United States of America,-89.14213625,33.53386775
+943,6333 Galvin Court,,Burbank,44214,OH,United States of America,-81.99981575,40.94620725
+944,6146 Galghard Street,,Mer Rouge,71261,LA,United States of America,-91.705307,32.80017525
+945,6248 French Sq.,,Montrose,62445,IL,United States of America,-88.31861925,39.16582025
+946,3966 Monorail Lane,Ste. #981,Barnesville,20838,MD,United States of America,-77.357412,39.230881
+947,9266 Libertas St.,Ste. #978,Washington,20020,DC,United States of America,-76.9739725,38.8612495
+948,5098 Ida Sq.,,Midwest,82643,WY,United States of America,-106.2608428,43.38985675
+949,4280 East Ln.,Apt. #789,Perkinston,39573,MS,United States of America,-89.10275575,30.70931925
+950,1205 Shopping St.,,Forestgrove,59441,MT,United States of America,-109.0405688,46.88482575
+951,8853 Overbanken Sq.,,Kahului,96732,HI,United States of America,-156.4647745,20.87863025
+952,2552 Southern Avenue,Suite #624,Bel Aire,67220,KS,United States of America,-97.2794955,37.7504135
+953,2082 Sebastian Ct.,Apt. #248,Sula,59871,MT,United States of America,-114.2289575,45.68179
+954,2143 Danish Street,,Davenport,52806,IA,United States of America,-90.6215735,41.57689425
+955,1245 SW Lane,,Waimanalo,96795,HI,United States of America,-157.7084485,21.346658
+956,227 Chris Eaton Ln.,Apt. #426,Sprague,99032,WA,United States of America,-118.049174,47.317135
+957,1961 Swamp Ln.,,South Lyon,48178,MI,United States of America,-83.65166325,42.44009925
+958,1252 Princess Court,,Hawi,96719,HI,United States of America,-155.8551903,20.21468925
+959,5338 Southern Road,,Carthage,62321,IL,United States of America,-91.0853255,40.40461875
+960,1935 Chris Eaton Rd.,,Hampton,3842,NH,United States of America,-70.838142,42.93425625
+961,3938 Hazlett Lane,,Mineral Point,15942,PA,United States of America,-78.82004125,40.398636
+962,3927 Industry Sq.,,Ventress,70783,LA,United States of America,-91.4160715,30.673991
+963,5334 Copper Ct.,#378,Ossian,46777,IN,United States of America,-85.144978,40.8721255
+964,5388 NW Sq.,,Fitchburg,1420,MA,United States of America,-71.80548575,42.58754075
+965,3780 Powell Avenue,,Pentagon,20301,DC,United States of America,-77.051174,38.87562975
+966,1807 Rome Rd.,,Rapidan,22733,VA,United States of America,-78.0466755,38.33662125
+967,7753 Overbanken Street,,Deerfield,53531,WI,United States of America,-89.08749875,43.0523435
+968,4538 Galghard Sq.,,Bromley Mtn,5148,VT,United States of America,-72.84091575,43.23993675
+969,9697 North Court,,Westover Afb,1022,MA,United States of America,-72.54652275,42.1971235
+970,8138 Overbanken St.,,Surrey,58785,ND,United States of America,-101.1060943,48.277569
+971,2532 Central Ct.,,Broad Run,22014,VA,United States of America,-77.68611,38.828653
+972,207 Technology Lane,,Pennville,47369,IN,United States of America,-85.14505675,40.511681
+973,5461 Newport Street,Apt. #633,Hooksett,3106,NH,United States of America,-71.4389635,43.0643045
+974,6664 Mayores St.,Suite #200,Pine Valley,14872,NY,United States of America,-76.8678865,42.23643
+975,2461 Hurbanova Square,,Myrtle Creek,97457,OR,United States of America,-123.214215,43.049908
+976,7964 Communal Ln.,#107,Robertsburg,25172,WV,United States of America,-81.9109,38.644143
+977,6241 Mill Place St.,,Papaaloa,96780,HI,United States of America,-155.2360698,19.89422625
+978,1419 Vienna St.,Ste. #548,Ceresco,68017,NE,United States of America,-96.64653625,41.062025
+979,8504 Page Street,,Olalla,98359,WA,United States of America,-122.5767958,47.43269425
+980,2468 Birchpond Road,,Casco,4015,ME,United States of America,-70.51531125,43.96592825
+981,5531 Walden Alley Lane,,Redstone,59257,MT,United States of America,-104.9052815,48.82093025
+982,3151 Hospital Ave.,Apt. #913,Talleyville,19803,DE,United States of America,-75.53712325,39.798063
+983,1667 Maple Sq.,Suite #599,Otto,82434,WY,United States of America,-108.292313,44.40884425
+984,9938 SE Ln.,,Lafayette,47901,IN,United States of America,-86.888589,40.4176245
+985,5272 E Ave.,Apt. #346,Endicott,41626,KY,United States of America,-82.627608,37.681936
+986,6747 Impressionist Sq.,,West Mansfield,43358,OH,United States of America,-83.52505775,40.4201165
+987,8311 Andreas Avenue,,Selbyville,19975,DE,United States of America,-75.15973475,38.4705545
+988,8993 Eastern Cesta Rd.,,Mount Olive,39119,MS,United States of America,-89.671385,31.7168805
+989,1247 Plaza Road,,Ironton,56455,MN,United States of America,-94.03445925,46.46882025
+990,3615 West Avenue,,Lynch,68746,NE,United States of America,-98.43164475,42.8692175
+991,1139 Kings Ct.,,Camp Joseph T Ro,72118,AR,United States of America,-92.322329,34.84281175
+992,6081 Mill Place Lane,,Upper Tract,26866,WV,United States of America,-79.25568425,38.80630175
+993,8862 Princess Lane,,Flag Pond,37657,TN,United States of America,-82.555449,36.01424
+994,8645 Bay Rd.,,West Simsbury,6092,CT,United States of America,-72.85253275,41.869313
+995,2192 King Arthur I Rd.,,Leesville,78122,TX,United States of America,-97.7718125,29.39046075
+996,1516 Easy Avenue,,Babb,59411,MT,United States of America,-113.3284128,48.856482
+997,805 Sobrance Lane,,Daisy,63743,MO,United States of America,-89.84144575,37.51408375
+998,2444 Sycamore Drive Sq.,,Oberlin,67749,KS,United States of America,-100.5196725,39.82826525
+999,476 Hot-air Ballon St.,,American Fork,84003,UT,United States of America,-111.7938768,40.402699
+1000,3665 Dimitri Street,,Ashuelot,3441,NH,United States of America,-72.43555375,42.80128925

@@ -1,0 +1,39 @@
+[[Role]]
+ID = 1.0
+Name = "Administrator"
+
+[[Role]]
+ID = 2.0
+Name = "User"
+
+[[Role]]
+ID = 3.0
+Name = "Visitor"
+
+[[Role]]
+ID = 4.0
+Name = "Janitor"
+
+[[Role]]
+ID = 5.0
+Name = "Special Education Teacher"
+
+[[Role]]
+ID = 6.0
+Name = "Administrative Services Manager"
+
+[[Role]]
+ID = 7.0
+Name = "Property Manager"
+
+[[Role]]
+ID = 8.0
+Name = "Surfacing Equipment Operator"
+
+[[Role]]
+ID = 9.0
+Name = "Power Tool Repairer"
+
+[[Role]]
+ID = 10.0
+Name = "Engraver"

@@ -1,0 +1,499 @@
+[[Theme]]
+ID = 1.0
+Name = "Desert Sand X7"
+HexCode = "#EFCDB8"
+
+[[Theme]]
+ID = 2.0
+Name = "Blue Green X8"
+HexCode = "#0D98BA"
+
+[[Theme]]
+ID = 3.0
+Name = "Purple Mountain's Majesty"
+HexCode = "#9D81BA"
+
+[[Theme]]
+ID = 4.0
+Name = "Outer Space X1"
+HexCode = "#414A4C"
+
+[[Theme]]
+ID = 5.0
+Name = "Screamin' Green"
+HexCode = "#76FF7A"
+
+[[Theme]]
+ID = 6.0
+Name = "Yellow Green"
+HexCode = "#C5E384"
+
+[[Theme]]
+ID = 7.0
+Name = "Magenta X6"
+HexCode = "#F664AF"
+
+[[Theme]]
+ID = 8.0
+Name = "Raw Sienna"
+HexCode = "#D68A59"
+
+[[Theme]]
+ID = 9.0
+Name = "Blue"
+HexCode = "#1F75FE"
+
+[[Theme]]
+ID = 10.0
+Name = "Cerise Elite"
+HexCode = "#DD4492"
+
+[[Theme]]
+ID = 11.0
+Name = "Almond"
+HexCode = "#EFDECD"
+
+[[Theme]]
+ID = 12.0
+Name = "Tumbleweed"
+HexCode = "#DEAA88"
+
+[[Theme]]
+ID = 13.0
+Name = "Neon Carrot"
+HexCode = "#FFA343"
+
+[[Theme]]
+ID = 14.0
+Name = "Neon Carrot Amazing"
+HexCode = "#FFA343"
+
+[[Theme]]
+ID = 15.0
+Name = "Banana Mania X4"
+HexCode = "#FAE7B5"
+
+[[Theme]]
+ID = 16.0
+Name = "Canary"
+HexCode = "#FFFF99"
+
+[[Theme]]
+ID = 17.0
+Name = "Piggy Pink Better"
+HexCode = "#FDDDE6"
+
+[[Theme]]
+ID = 18.0
+Name = "Neon Carrot (927843)"
+HexCode = "#FFA343"
+
+[[Theme]]
+ID = 19.0
+Name = "Radical Red"
+HexCode = "#FF496C"
+
+[[Theme]]
+ID = 20.0
+Name = "Macaroni and Cheese X4"
+HexCode = "#FFBD88"
+
+[[Theme]]
+ID = 21.0
+Name = "Cerise"
+HexCode = "#DD4492"
+
+[[Theme]]
+ID = 22.0
+Name = "Bittersweet X2"
+HexCode = "#FD7C6E"
+
+[[Theme]]
+ID = 23.0
+Name = "Sepia"
+HexCode = "#A5694F"
+
+[[Theme]]
+ID = 24.0
+Name = "Cerulean"
+HexCode = "#1DACD6"
+
+[[Theme]]
+ID = 25.0
+Name = "Wild Strawberry X3"
+HexCode = "#FF43A4"
+
+[[Theme]]
+ID = 26.0
+Name = "Sepia (399041)"
+HexCode = "#A5694F"
+
+[[Theme]]
+ID = 27.0
+Name = "Wild Blue Yonder"
+HexCode = "#A2ADD0"
+
+[[Theme]]
+ID = 28.0
+Name = "Gray"
+HexCode = "#95918C"
+
+[[Theme]]
+ID = 29.0
+Name = "Timberwolf Better"
+HexCode = "#DBD7D2"
+
+[[Theme]]
+ID = 30.0
+Name = "Electric Lime"
+HexCode = "#CEFF1D"
+
+[[Theme]]
+ID = 31.0
+Name = "Violet Red Super"
+HexCode = "#F75394"
+
+[[Theme]]
+ID = 32.0
+Name = "Mahogany"
+HexCode = "#CD4A4C"
+
+[[Theme]]
+ID = 33.0
+Name = "Desert Sand"
+HexCode = "#EFCDB8"
+
+[[Theme]]
+ID = 34.0
+Name = "Jazzberry Jam"
+HexCode = "#CA3767"
+
+[[Theme]]
+ID = 35.0
+Name = "Orchid"
+HexCode = "#E6A8D7"
+
+[[Theme]]
+ID = 36.0
+Name = "Razzmatazz"
+HexCode = "#E3256B"
+
+[[Theme]]
+ID = 37.0
+Name = "Blue Violet X4"
+HexCode = "#7366BD"
+
+[[Theme]]
+ID = 38.0
+Name = "Dandelion Elite"
+HexCode = "#FDDB6D"
+
+[[Theme]]
+ID = 39.0
+Name = "Tumbleweed (894404)"
+HexCode = "#DEAA88"
+
+[[Theme]]
+ID = 40.0
+Name = "Pacific Blue X8"
+HexCode = "#1CA9C9"
+
+[[Theme]]
+ID = 41.0
+Name = "Unmellow Yellow"
+HexCode = "#FFFF66"
+
+[[Theme]]
+ID = 42.0
+Name = "Burnt Sienna Super"
+HexCode = "#EA7E5D"
+
+[[Theme]]
+ID = 43.0
+Name = "Caribbean Green"
+HexCode = "#00CC99"
+
+[[Theme]]
+ID = 44.0
+Name = "Silver Amazing"
+HexCode = "#CDC5C2"
+
+[[Theme]]
+ID = 45.0
+Name = "Purple Heart"
+HexCode = "#7442C8"
+
+[[Theme]]
+ID = 46.0
+Name = "Unmellow Yellow (191459)"
+HexCode = "#FFFF66"
+
+[[Theme]]
+ID = 47.0
+Name = "Canary Super"
+HexCode = "#FFFF99"
+
+[[Theme]]
+ID = 48.0
+Name = "Macaroni and Cheese"
+HexCode = "#FFBD88"
+
+[[Theme]]
+ID = 49.0
+Name = "Radical Red (304922)"
+HexCode = "#FF496C"
+
+[[Theme]]
+ID = 50.0
+Name = "Tan"
+HexCode = "#FAA76C"
+
+[[Theme]]
+ID = 51.0
+Name = "Jazzberry Jam (322469)"
+HexCode = "#CA3767"
+
+[[Theme]]
+ID = 52.0
+Name = "Salmon"
+HexCode = "#FF9BAA"
+
+[[Theme]]
+ID = 53.0
+Name = "Tumbleweed (780193)"
+HexCode = "#DEAA88"
+
+[[Theme]]
+ID = 54.0
+Name = "Spring Green X3"
+HexCode = "#ECEABE"
+
+[[Theme]]
+ID = 55.0
+Name = "Forest Green X3"
+HexCode = "#6DAE81"
+
+[[Theme]]
+ID = 56.0
+Name = "Eggplant X7"
+HexCode = "#6E5160"
+
+[[Theme]]
+ID = 57.0
+Name = "Neon Carrot (405426)"
+HexCode = "#FFA343"
+
+[[Theme]]
+ID = 58.0
+Name = "Wisteria Better"
+HexCode = "#CDA4DE"
+
+[[Theme]]
+ID = 59.0
+Name = "Neon Carrot (874413)"
+HexCode = "#FFA343"
+
+[[Theme]]
+ID = 60.0
+Name = "Antique Brass"
+HexCode = "#CD9575"
+
+[[Theme]]
+ID = 61.0
+Name = "Apricot"
+HexCode = "#FDD9B5"
+
+[[Theme]]
+ID = 62.0
+Name = "Piggy Pink"
+HexCode = "#FDDDE6"
+
+[[Theme]]
+ID = 63.0
+Name = "Vivid Violet"
+HexCode = "#8F509D"
+
+[[Theme]]
+ID = 64.0
+Name = "Hot Magenta"
+HexCode = "#FF1DCE"
+
+[[Theme]]
+ID = 65.0
+Name = "Desert Sand (982889)"
+HexCode = "#EFCDB8"
+
+[[Theme]]
+ID = 66.0
+Name = "Peach X5"
+HexCode = "#FFCFAB"
+
+[[Theme]]
+ID = 67.0
+Name = "Salmon (221507)"
+HexCode = "#FF9BAA"
+
+[[Theme]]
+ID = 68.0
+Name = "Blue Violet"
+HexCode = "#7366BD"
+
+[[Theme]]
+ID = 69.0
+Name = "Turquoise Blue"
+HexCode = "#77DDE7"
+
+[[Theme]]
+ID = 70.0
+Name = "Wild Blue Yonder X4"
+HexCode = "#A2ADD0"
+
+[[Theme]]
+ID = 71.0
+Name = "Manatee"
+HexCode = "#979AAA"
+
+[[Theme]]
+ID = 72.0
+Name = "Jazzberry Jam (245140)"
+HexCode = "#CA3767"
+
+[[Theme]]
+ID = 73.0
+Name = "Jungle Green"
+HexCode = "#3BB08F"
+
+[[Theme]]
+ID = 74.0
+Name = "Beaver"
+HexCode = "#9F8170"
+
+[[Theme]]
+ID = 75.0
+Name = "Mauvelous"
+HexCode = "#EF98AA"
+
+[[Theme]]
+ID = 76.0
+Name = "Cerulean (946266)"
+HexCode = "#1DACD6"
+
+[[Theme]]
+ID = 77.0
+Name = "Fern Super"
+HexCode = "#71BC78"
+
+[[Theme]]
+ID = 78.0
+Name = "Razzle Dazzle Rose Ultra"
+HexCode = "#FF48D0"
+
+[[Theme]]
+ID = 79.0
+Name = "Mauvelous X2"
+HexCode = "#EF98AA"
+
+[[Theme]]
+ID = 80.0
+Name = "Laser Lemon"
+HexCode = "#FEFE22"
+
+[[Theme]]
+ID = 81.0
+Name = "Robin's Egg Blue"
+HexCode = "#1FCECB"
+
+[[Theme]]
+ID = 82.0
+Name = "Olive Green"
+HexCode = "#BAB86C"
+
+[[Theme]]
+ID = 83.0
+Name = "Denim"
+HexCode = "#2B6CC4"
+
+[[Theme]]
+ID = 84.0
+Name = "Piggy Pink (640654)"
+HexCode = "#FDDDE6"
+
+[[Theme]]
+ID = 85.0
+Name = "Indigo"
+HexCode = "#5D76CB"
+
+[[Theme]]
+ID = 86.0
+Name = "Forest Green"
+HexCode = "#6DAE81"
+
+[[Theme]]
+ID = 87.0
+Name = "Shadow"
+HexCode = "#8A795D"
+
+[[Theme]]
+ID = 88.0
+Name = "Sea Green"
+HexCode = "#93DFB8"
+
+[[Theme]]
+ID = 89.0
+Name = "Yellow X3"
+HexCode = "#FCE883"
+
+[[Theme]]
+ID = 90.0
+Name = "Sea Green (970433)"
+HexCode = "#93DFB8"
+
+[[Theme]]
+ID = 91.0
+Name = "Aquamarine Better"
+HexCode = "#78DBE2"
+
+[[Theme]]
+ID = 92.0
+Name = "Forest Green (127175)"
+HexCode = "#6DAE81"
+
+[[Theme]]
+ID = 93.0
+Name = "Vivid Tangerine X6"
+HexCode = "#FFA089"
+
+[[Theme]]
+ID = 94.0
+Name = "Purple Pizzazz X8"
+HexCode = "#FE4EDA"
+
+[[Theme]]
+ID = 95.0
+Name = "Pine Green"
+HexCode = "#158078"
+
+[[Theme]]
+ID = 96.0
+Name = "Fuchsia X8"
+HexCode = "#C364C5"
+
+[[Theme]]
+ID = 97.0
+Name = "Lavender Ultra"
+HexCode = "#FCB4D5"
+
+[[Theme]]
+ID = 98.0
+Name = "Yellow Green (251119)"
+HexCode = "#C5E384"
+
+[[Theme]]
+ID = 99.0
+Name = "Jungle Green (527410)"
+HexCode = "#3BB08F"
+
+[[Theme]]
+ID = 100.0
+Name = "Wild Blue Yonder (672130)"
+HexCode = "#A2ADD0"

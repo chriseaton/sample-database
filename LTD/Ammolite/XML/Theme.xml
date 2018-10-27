@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Themes>
+    <Theme>
+        <ID>1</ID>
+        <Name>Desert Sand X7</Name>
+        <HexCode>#EFCDB8</HexCode>
+    </Theme>
+    <Theme>
+        <ID>2</ID>
+        <Name>Blue Green X8</Name>
+        <HexCode>#0D98BA</HexCode>
+    </Theme>
+    <Theme>
+        <ID>3</ID>
+        <Name>Purple Mountain's Majesty</Name>
+        <HexCode>#9D81BA</HexCode>
+    </Theme>
+    <Theme>
+        <ID>4</ID>
+        <Name>Outer Space X1</Name>
+        <HexCode>#414A4C</HexCode>
+    </Theme>
+    <Theme>
+        <ID>5</ID>
+        <Name>Screamin' Green</Name>
+        <HexCode>#76FF7A</HexCode>
+    </Theme>
+    <Theme>
+        <ID>6</ID>
+        <Name>Yellow Green</Name>
+        <HexCode>#C5E384</HexCode>
+    </Theme>
+    <Theme>
+        <ID>7</ID>
+        <Name>Magenta X6</Name>
+        <HexCode>#F664AF</HexCode>
+    </Theme>
+    <Theme>
+        <ID>8</ID>
+        <Name>Raw Sienna</Name>
+        <HexCode>#D68A59</HexCode>
+    </Theme>
+    <Theme>
+        <ID>9</ID>
+        <Name>Blue</Name>
+        <HexCode>#1F75FE</HexCode>
+    </Theme>
+    <Theme>
+        <ID>10</ID>
+        <Name>Cerise Elite</Name>
+        <HexCode>#DD4492</HexCode>
+    </Theme>
+    <Theme>
+        <ID>11</ID>
+        <Name>Almond</Name>
+        <HexCode>#EFDECD</HexCode>
+    </Theme>
+    <Theme>
+        <ID>12</ID>
+        <Name>Tumbleweed</Name>
+        <HexCode>#DEAA88</HexCode>
+    </Theme>
+    <Theme>
+        <ID>13</ID>
+        <Name>Neon Carrot</Name>
+        <HexCode>#FFA343</HexCode>
+    </Theme>
+    <Theme>
+        <ID>14</ID>
+        <Name>Neon Carrot Amazing</Name>
+        <HexCode>#FFA343</HexCode>
+    </Theme>
+    <Theme>
+        <ID>15</ID>
+        <Name>Banana Mania X4</Name>
+        <HexCode>#FAE7B5</HexCode>
+    </Theme>
+    <Theme>
+        <ID>16</ID>
+        <Name>Canary</Name>
+        <HexCode>#FFFF99</HexCode>
+    </Theme>
+    <Theme>
+        <ID>17</ID>
+        <Name>Piggy Pink Better</Name>
+        <HexCode>#FDDDE6</HexCode>
+    </Theme>
+    <Theme>
+        <ID>18</ID>
+        <Name>Neon Carrot (927843)</Name>
+        <HexCode>#FFA343</HexCode>
+    </Theme>
+    <Theme>
+        <ID>19</ID>
+        <Name>Radical Red</Name>
+        <HexCode>#FF496C</HexCode>
+    </Theme>
+    <Theme>
+        <ID>20</ID>
+        <Name>Macaroni and Cheese X4</Name>
+        <HexCode>#FFBD88</HexCode>
+    </Theme>
+    <Theme>
+        <ID>21</ID>
+        <Name>Cerise</Name>
+        <HexCode>#DD4492</HexCode>
+    </Theme>
+    <Theme>
+        <ID>22</ID>
+        <Name>Bittersweet X2</Name>
+        <HexCode>#FD7C6E</HexCode>
+    </Theme>
+    <Theme>
+        <ID>23</ID>
+        <Name>Sepia</Name>
+        <HexCode>#A5694F</HexCode>
+    </Theme>
+    <Theme>
+        <ID>24</ID>
+        <Name>Cerulean</Name>
+        <HexCode>#1DACD6</HexCode>
+    </Theme>
+    <Theme>
+        <ID>25</ID>
+        <Name>Wild Strawberry X3</Name>
+        <HexCode>#FF43A4</HexCode>
+    </Theme>
+    <Theme>
+        <ID>26</ID>
+        <Name>Sepia (399041)</Name>
+        <HexCode>#A5694F</HexCode>
+    </Theme>
+    <Theme>
+        <ID>27</ID>
+        <Name>Wild Blue Yonder</Name>
+        <HexCode>#A2ADD0</HexCode>
+    </Theme>
+    <Theme>
+        <ID>28</ID>
+        <Name>Gray</Name>
+        <HexCode>#95918C</HexCode>
+    </Theme>
+    <Theme>
+        <ID>29</ID>
+        <Name>Timberwolf Better</Name>
+        <HexCode>#DBD7D2</HexCode>
+    </Theme>
+    <Theme>
+        <ID>30</ID>
+        <Name>Electric Lime</Name>
+        <HexCode>#CEFF1D</HexCode>
+    </Theme>
+    <Theme>
+        <ID>31</ID>
+        <Name>Violet Red Super</Name>
+        <HexCode>#F75394</HexCode>
+    </Theme>
+    <Theme>
+        <ID>32</ID>
+        <Name>Mahogany</Name>
+        <HexCode>#CD4A4C</HexCode>
+    </Theme>
+    <Theme>
+        <ID>33</ID>
+        <Name>Desert Sand</Name>
+        <HexCode>#EFCDB8</HexCode>
+    </Theme>
+    <Theme>
+        <ID>34</ID>
+        <Name>Jazzberry Jam</Name>
+        <HexCode>#CA3767</HexCode>
+    </Theme>
+    <Theme>
+        <ID>35</ID>
+        <Name>Orchid</Name>
+        <HexCode>#E6A8D7</HexCode>
+    </Theme>
+    <Theme>
+        <ID>36</ID>
+        <Name>Razzmatazz</Name>
+        <HexCode>#E3256B</HexCode>
+    </Theme>
+    <Theme>
+        <ID>37</ID>
+        <Name>Blue Violet X4</Name>
+        <HexCode>#7366BD</HexCode>
+    </Theme>
+    <Theme>
+        <ID>38</ID>
+        <Name>Dandelion Elite</Name>
+        <HexCode>#FDDB6D</HexCode>
+    </Theme>
+    <Theme>
+        <ID>39</ID>
+        <Name>Tumbleweed (894404)</Name>
+        <HexCode>#DEAA88</HexCode>
+    </Theme>
+    <Theme>
+        <ID>40</ID>
+        <Name>Pacific Blue X8</Name>
+        <HexCode>#1CA9C9</HexCode>
+    </Theme>
+    <Theme>
+        <ID>41</ID>
+        <Name>Unmellow Yellow</Name>
+        <HexCode>#FFFF66</HexCode>
+    </Theme>
+    <Theme>
+        <ID>42</ID>
+        <Name>Burnt Sienna Super</Name>
+        <HexCode>#EA7E5D</HexCode>
+    </Theme>
+    <Theme>
+        <ID>43</ID>
+        <Name>Caribbean Green</Name>
+        <HexCode>#00CC99</HexCode>
+    </Theme>
+    <Theme>
+        <ID>44</ID>
+        <Name>Silver Amazing</Name>
+        <HexCode>#CDC5C2</HexCode>
+    </Theme>
+    <Theme>
+        <ID>45</ID>
+        <Name>Purple Heart</Name>
+        <HexCode>#7442C8</HexCode>
+    </Theme>
+    <Theme>
+        <ID>46</ID>
+        <Name>Unmellow Yellow (191459)</Name>
+        <HexCode>#FFFF66</HexCode>
+    </Theme>
+    <Theme>
+        <ID>47</ID>
+        <Name>Canary Super</Name>
+        <HexCode>#FFFF99</HexCode>
+    </Theme>
+    <Theme>
+        <ID>48</ID>
+        <Name>Macaroni and Cheese</Name>
+        <HexCode>#FFBD88</HexCode>
+    </Theme>
+    <Theme>
+        <ID>49</ID>
+        <Name>Radical Red (304922)</Name>
+        <HexCode>#FF496C</HexCode>
+    </Theme>
+    <Theme>
+        <ID>50</ID>
+        <Name>Tan</Name>
+        <HexCode>#FAA76C</HexCode>
+    </Theme>
+    <Theme>
+        <ID>51</ID>
+        <Name>Jazzberry Jam (322469)</Name>
+        <HexCode>#CA3767</HexCode>
+    </Theme>
+    <Theme>
+        <ID>52</ID>
+        <Name>Salmon</Name>
+        <HexCode>#FF9BAA</HexCode>
+    </Theme>
+    <Theme>
+        <ID>53</ID>
+        <Name>Tumbleweed (780193)</Name>
+        <HexCode>#DEAA88</HexCode>
+    </Theme>
+    <Theme>
+        <ID>54</ID>
+        <Name>Spring Green X3</Name>
+        <HexCode>#ECEABE</HexCode>
+    </Theme>
+    <Theme>
+        <ID>55</ID>
+        <Name>Forest Green X3</Name>
+        <HexCode>#6DAE81</HexCode>
+    </Theme>
+    <Theme>
+        <ID>56</ID>
+        <Name>Eggplant X7</Name>
+        <HexCode>#6E5160</HexCode>
+    </Theme>
+    <Theme>
+        <ID>57</ID>
+        <Name>Neon Carrot (405426)</Name>
+        <HexCode>#FFA343</HexCode>
+    </Theme>
+    <Theme>
+        <ID>58</ID>
+        <Name>Wisteria Better</Name>
+        <HexCode>#CDA4DE</HexCode>
+    </Theme>
+    <Theme>
+        <ID>59</ID>
+        <Name>Neon Carrot (874413)</Name>
+        <HexCode>#FFA343</HexCode>
+    </Theme>
+    <Theme>
+        <ID>60</ID>
+        <Name>Antique Brass</Name>
+        <HexCode>#CD9575</HexCode>
+    </Theme>
+    <Theme>
+        <ID>61</ID>
+        <Name>Apricot</Name>
+        <HexCode>#FDD9B5</HexCode>
+    </Theme>
+    <Theme>
+        <ID>62</ID>
+        <Name>Piggy Pink</Name>
+        <HexCode>#FDDDE6</HexCode>
+    </Theme>
+    <Theme>
+        <ID>63</ID>
+        <Name>Vivid Violet</Name>
+        <HexCode>#8F509D</HexCode>
+    </Theme>
+    <Theme>
+        <ID>64</ID>
+        <Name>Hot Magenta</Name>
+        <HexCode>#FF1DCE</HexCode>
+    </Theme>
+    <Theme>
+        <ID>65</ID>
+        <Name>Desert Sand (982889)</Name>
+        <HexCode>#EFCDB8</HexCode>
+    </Theme>
+    <Theme>
+        <ID>66</ID>
+        <Name>Peach X5</Name>
+        <HexCode>#FFCFAB</HexCode>
+    </Theme>
+    <Theme>
+        <ID>67</ID>
+        <Name>Salmon (221507)</Name>
+        <HexCode>#FF9BAA</HexCode>
+    </Theme>
+    <Theme>
+        <ID>68</ID>
+        <Name>Blue Violet</Name>
+        <HexCode>#7366BD</HexCode>
+    </Theme>
+    <Theme>
+        <ID>69</ID>
+        <Name>Turquoise Blue</Name>
+        <HexCode>#77DDE7</HexCode>
+    </Theme>
+    <Theme>
+        <ID>70</ID>
+        <Name>Wild Blue Yonder X4</Name>
+        <HexCode>#A2ADD0</HexCode>
+    </Theme>
+    <Theme>
+        <ID>71</ID>
+        <Name>Manatee</Name>
+        <HexCode>#979AAA</HexCode>
+    </Theme>
+    <Theme>
+        <ID>72</ID>
+        <Name>Jazzberry Jam (245140)</Name>
+        <HexCode>#CA3767</HexCode>
+    </Theme>
+    <Theme>
+        <ID>73</ID>
+        <Name>Jungle Green</Name>
+        <HexCode>#3BB08F</HexCode>
+    </Theme>
+    <Theme>
+        <ID>74</ID>
+        <Name>Beaver</Name>
+        <HexCode>#9F8170</HexCode>
+    </Theme>
+    <Theme>
+        <ID>75</ID>
+        <Name>Mauvelous</Name>
+        <HexCode>#EF98AA</HexCode>
+    </Theme>
+    <Theme>
+        <ID>76</ID>
+        <Name>Cerulean (946266)</Name>
+        <HexCode>#1DACD6</HexCode>
+    </Theme>
+    <Theme>
+        <ID>77</ID>
+        <Name>Fern Super</Name>
+        <HexCode>#71BC78</HexCode>
+    </Theme>
+    <Theme>
+        <ID>78</ID>
+        <Name>Razzle Dazzle Rose Ultra</Name>
+        <HexCode>#FF48D0</HexCode>
+    </Theme>
+    <Theme>
+        <ID>79</ID>
+        <Name>Mauvelous X2</Name>
+        <HexCode>#EF98AA</HexCode>
+    </Theme>
+    <Theme>
+        <ID>80</ID>
+        <Name>Laser Lemon</Name>
+        <HexCode>#FEFE22</HexCode>
+    </Theme>
+    <Theme>
+        <ID>81</ID>
+        <Name>Robin's Egg Blue</Name>
+        <HexCode>#1FCECB</HexCode>
+    </Theme>
+    <Theme>
+        <ID>82</ID>
+        <Name>Olive Green</Name>
+        <HexCode>#BAB86C</HexCode>
+    </Theme>
+    <Theme>
+        <ID>83</ID>
+        <Name>Denim</Name>
+        <HexCode>#2B6CC4</HexCode>
+    </Theme>
+    <Theme>
+        <ID>84</ID>
+        <Name>Piggy Pink (640654)</Name>
+        <HexCode>#FDDDE6</HexCode>
+    </Theme>
+    <Theme>
+        <ID>85</ID>
+        <Name>Indigo</Name>
+        <HexCode>#5D76CB</HexCode>
+    </Theme>
+    <Theme>
+        <ID>86</ID>
+        <Name>Forest Green</Name>
+        <HexCode>#6DAE81</HexCode>
+    </Theme>
+    <Theme>
+        <ID>87</ID>
+        <Name>Shadow</Name>
+        <HexCode>#8A795D</HexCode>
+    </Theme>
+    <Theme>
+        <ID>88</ID>
+        <Name>Sea Green</Name>
+        <HexCode>#93DFB8</HexCode>
+    </Theme>
+    <Theme>
+        <ID>89</ID>
+        <Name>Yellow X3</Name>
+        <HexCode>#FCE883</HexCode>
+    </Theme>
+    <Theme>
+        <ID>90</ID>
+        <Name>Sea Green (970433)</Name>
+        <HexCode>#93DFB8</HexCode>
+    </Theme>
+    <Theme>
+        <ID>91</ID>
+        <Name>Aquamarine Better</Name>
+        <HexCode>#78DBE2</HexCode>
+    </Theme>
+    <Theme>
+        <ID>92</ID>
+        <Name>Forest Green (127175)</Name>
+        <HexCode>#6DAE81</HexCode>
+    </Theme>
+    <Theme>
+        <ID>93</ID>
+        <Name>Vivid Tangerine X6</Name>
+        <HexCode>#FFA089</HexCode>
+    </Theme>
+    <Theme>
+        <ID>94</ID>
+        <Name>Purple Pizzazz X8</Name>
+        <HexCode>#FE4EDA</HexCode>
+    </Theme>
+    <Theme>
+        <ID>95</ID>
+        <Name>Pine Green</Name>
+        <HexCode>#158078</HexCode>
+    </Theme>
+    <Theme>
+        <ID>96</ID>
+        <Name>Fuchsia X8</Name>
+        <HexCode>#C364C5</HexCode>
+    </Theme>
+    <Theme>
+        <ID>97</ID>
+        <Name>Lavender Ultra</Name>
+        <HexCode>#FCB4D5</HexCode>
+    </Theme>
+    <Theme>
+        <ID>98</ID>
+        <Name>Yellow Green (251119)</Name>
+        <HexCode>#C5E384</HexCode>
+    </Theme>
+    <Theme>
+        <ID>99</ID>
+        <Name>Jungle Green (527410)</Name>
+        <HexCode>#3BB08F</HexCode>
+    </Theme>
+    <Theme>
+        <ID>100</ID>
+        <Name>Wild Blue Yonder (672130)</Name>
+        <HexCode>#A2ADD0</HexCode>
+    </Theme>
+</Themes>

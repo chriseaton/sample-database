@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Roles>
+    <Role>
+        <ID>1</ID>
+        <Name>Administrator</Name>
+    </Role>
+    <Role>
+        <ID>2</ID>
+        <Name>User</Name>
+    </Role>
+    <Role>
+        <ID>3</ID>
+        <Name>Visitor</Name>
+    </Role>
+    <Role>
+        <ID>4</ID>
+        <Name>Janitor</Name>
+    </Role>
+    <Role>
+        <ID>5</ID>
+        <Name>Special Education Teacher</Name>
+    </Role>
+    <Role>
+        <ID>6</ID>
+        <Name>Administrative Services Manager</Name>
+    </Role>
+    <Role>
+        <ID>7</ID>
+        <Name>Property Manager</Name>
+    </Role>
+    <Role>
+        <ID>8</ID>
+        <Name>Surfacing Equipment Operator</Name>
+    </Role>
+    <Role>
+        <ID>9</ID>
+        <Name>Power Tool Repairer</Name>
+    </Role>
+    <Role>
+        <ID>10</ID>
+        <Name>Engraver</Name>
+    </Role>
+</Roles>

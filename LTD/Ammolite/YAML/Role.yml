@@ -1,0 +1,20 @@
+- ID: 1
+  Name: Administrator
+- ID: 2
+  Name: User
+- ID: 3
+  Name: Visitor
+- ID: 4
+  Name: Janitor
+- ID: 5
+  Name: Special Education Teacher
+- ID: 6
+  Name: Administrative Services Manager
+- ID: 7
+  Name: Property Manager
+- ID: 8
+  Name: Surfacing Equipment Operator
+- ID: 9
+  Name: Power Tool Repairer
+- ID: 10
+  Name: Engraver
